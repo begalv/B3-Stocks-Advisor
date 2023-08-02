@@ -8,8 +8,8 @@ __pycache__/
 
 *.xlsx
 
-delfos/data/broker/cash.json
-notebooks/
+/delfos/data/broker/cash.json
+/notebooks/
 
 # Distribution / packaging
 .Python
