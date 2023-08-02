@@ -1,0 +1,3810 @@
+{
+    "AFLT3": {
+        "Nome de preg\u00e3o": "AFLUENTE T",
+        "CNPJ": "10.338.320/0001-00",
+        "Nome": "AFLUENTE TRANSMISS\u00c3O DE ENERGIA EL\u00c9TRICA S/A",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "RPAD3": {
+        "Nome de preg\u00e3o": "ALFA HOLDING",
+        "CNPJ": "17.167.396/0001-69",
+        "Nome": "ALFA HOLDINGS S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "RPAD5": {
+        "Nome de preg\u00e3o": "ALFA HOLDING",
+        "CNPJ": "17.167.396/0001-69",
+        "Nome": "ALFA HOLDINGS S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "RPAD6": {
+        "Nome de preg\u00e3o": "ALFA HOLDING",
+        "CNPJ": "17.167.396/0001-69",
+        "Nome": "ALFA HOLDINGS S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "ALSO3": {
+        "Nome de preg\u00e3o": "ALIANSCSONAE",
+        "CNPJ": "05.878.397/0001-32",
+        "Nome": "ALIANSCE SONAE SHOPPING CENTERS S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Explora\u00e7\u00e3o de im\u00f3veis",
+        "Segmento": "Explora\u00e7\u00e3o de im\u00f3veis"
+    },
+    "ALPK3": {
+        "Nome de preg\u00e3o": "ESTAPAR",
+        "CNPJ": "60.537.263/0001-66",
+        "Nome": "ALLPARK EMPREENDIMENTOS PARTICIPACOES SERVICOS S.A",
+        "Setor": "Bens Industriais",
+        "Sub Setor": "Servi\u00e7os",
+        "Segmento": "Servi\u00e7os Diversos"
+    },
+    "ALPA3": {
+        "Nome de preg\u00e3o": "ALPARGATAS",
+        "CNPJ": "61.079.117/0001-05",
+        "Nome": "ALPARGATAS S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Cal\u00e7ados"
+    },
+    "ALPA4": {
+        "Nome de preg\u00e3o": "ALPARGATAS",
+        "CNPJ": "61.079.117/0001-05",
+        "Nome": "ALPARGATAS S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Cal\u00e7ados"
+    },
+    "APER3": {
+        "Nome de preg\u00e3o": "ALPER S.A.",
+        "CNPJ": "11.721.921/0001-60",
+        "Nome": "ALPER CONSULTORIA E CORRETORA DE SEGUROS S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Previd\u00eancia e seguros",
+        "Segmento": "Corretoras de seguros"
+    },
+    "ALUP3": {
+        "Nome de preg\u00e3o": "ALUPAR",
+        "CNPJ": "08.364.948/0001-38",
+        "Nome": "ALUPAR INVESTIMENTO S/A",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "ALUP4": {
+        "Nome de preg\u00e3o": "ALUPAR",
+        "CNPJ": "08.364.948/0001-38",
+        "Nome": "ALUPAR INVESTIMENTO S/A",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "ALUP11": {
+        "Nome de preg\u00e3o": "ALUPAR",
+        "CNPJ": "08.364.948/0001-38",
+        "Nome": "ALUPAR INVESTIMENTO S/A",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "ABEV3": {
+        "Nome de preg\u00e3o": "AMBEV S/A",
+        "CNPJ": "07.526.557/0001-00",
+        "Nome": "AMBEV S.A.",
+        "Setor": "Consumo n\u00e3o c\u00edclico",
+        "Sub Setor": "Bebidas",
+        "Segmento": "Cervejas e refrigerantes"
+    },
+    "CBEE3": {
+        "Nome de preg\u00e3o": "AMPLA ENERG",
+        "CNPJ": "33.050.071/0001-58",
+        "Nome": "AMPLA ENERGIA E SERVICOS S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "ANIM3": {
+        "Nome de preg\u00e3o": "ANIMA",
+        "CNPJ": "09.288.252/0001-32",
+        "Nome": "ANIMA HOLDING S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Diversos",
+        "Segmento": "Servi\u00e7os educacionais"
+    },
+    "ARZZ3": {
+        "Nome de preg\u00e3o": "AREZZO CO",
+        "CNPJ": "16.590.234/0001-76",
+        "Nome": "AREZZO IND\u00daSTRIA E COM\u00c9RCIO S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Com\u00e9rcio",
+        "Segmento": "Tecidos, vestu\u00e1rio e cal\u00e7ados "
+    },
+    "CRFB3": {
+        "Nome de preg\u00e3o": "CARREFOUR BR",
+        "CNPJ": "75.315.333/0001-09",
+        "Nome": "ATACAD\u00c3O S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Com\u00e9rcio e distribui\u00e7\u00e3o",
+        "Segmento": "Alimentos"
+    },
+    "ATOM3": {
+        "Nome de preg\u00e3o": "ATOMPAR",
+        "CNPJ": "00.359.742/0001-08",
+        "Nome": "ATOM EMPREENDIMENTOS E PARTICIPA\u00c7\u00d5ES S.A.",
+        "Setor": "Outros",
+        "Sub Setor": "Outros",
+        "Segmento": "Outros"
+    },
+    "AZEV4": {
+        "Nome de preg\u00e3o": "AZEVEDO",
+        "CNPJ": "61.351.532/0001-68",
+        "Nome": "AZEVEDO E TRAVASSOS S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Constru\u00e7\u00e3o e engenharia",
+        "Segmento": "Constru\u00e7\u00e3o pesada"
+    },
+    "AZEV3": {
+        "Nome de preg\u00e3o": "AZEVEDO",
+        "CNPJ": "61.351.532/0001-68",
+        "Nome": "AZEVEDO E TRAVASSOS S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Constru\u00e7\u00e3o e engenharia",
+        "Segmento": "Constru\u00e7\u00e3o pesada"
+    },
+    "AZUL4": {
+        "Nome de preg\u00e3o": "AZUL",
+        "CNPJ": "09.305.994/0001-29",
+        "Nome": "AZUL S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Transporte",
+        "Segmento": "Transporte a\u00e9reo"
+    },
+    "B3SA3": {
+        "Nome de preg\u00e3o": "B3",
+        "CNPJ": "09.346.601/0001-25",
+        "Nome": "B3 S.A. \u2013 BRASIL, BOLSA, BALC\u00c3O",
+        "Setor": "Financeiro",
+        "Sub Setor": "Servi\u00e7os financeiros diversos",
+        "Segmento": "Servi\u00e7os financeiros diversos"
+    },
+    "BAHI3": {
+        "Nome de preg\u00e3o": "BAHEMA",
+        "CNPJ": "45.987.245/0001-92",
+        "Nome": "BAHEMA EDUCA\u00c7\u00c3O S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Diversos",
+        "Segmento": "Servi\u00e7os educacionais"
+    },
+    "BMGB4": {
+        "Nome de preg\u00e3o": "BANCO BMG",
+        "CNPJ": "61.186.680/0001-74",
+        "Nome": "BANCO BMG S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BEES3": {
+        "Nome de preg\u00e3o": "BANESTES",
+        "CNPJ": "28.127.603/0001-78",
+        "Nome": "BANESTES S.A. \u2013 BCO EST ESPIRITO SANTO",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BEES4": {
+        "Nome de preg\u00e3o": "BANESTES",
+        "CNPJ": "28.127.603/0001-78",
+        "Nome": "BANESTES S.A. \u2013 BCO EST ESPIRITO SANTO",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BDLL4": {
+        "Nome de preg\u00e3o": "BARDELLA",
+        "CNPJ": "60.851.615/0001-53",
+        "Nome": "BARDELLA S.A. INDUSTRIAS MECANICAS",
+        "Setor": "Bens industriais",
+        "Sub Setor": "M\u00e1quinas e equipamentos",
+        "Segmento": "M\u00e1q. e equip. industriais"
+    },
+    "BDLL3": {
+        "Nome de preg\u00e3o": "BARDELLA",
+        "CNPJ": "60.851.615/0001-53",
+        "Nome": "BARDELLA S.A. INDUSTRIAS MECANICAS",
+        "Setor": "Bens industriais",
+        "Sub Setor": "M\u00e1quinas e equipamentos",
+        "Segmento": "M\u00e1q. e equip. industriais"
+    },
+    "BALM4": {
+        "Nome de preg\u00e3o": "BAUMER",
+        "CNPJ": "61.374.161/0001-30",
+        "Nome": "BAUMER S.A.",
+        "Setor": "Sa\u00fade",
+        "Sub Setor": "Equipamentos",
+        "Segmento": "Equipamentos"
+    },
+    "BALM3": {
+        "Nome de preg\u00e3o": "BAUMER",
+        "CNPJ": "61.374.161/0001-30",
+        "Nome": "BAUMER S.A.",
+        "Setor": "Sa\u00fade",
+        "Sub Setor": "Equipamentos",
+        "Segmento": "Equipamentos"
+    },
+    "BBSE3": {
+        "Nome de preg\u00e3o": "BBSEGURIDADE",
+        "CNPJ": "17.344.597/0001-94",
+        "Nome": "BB SEGURIDADE PARTICIPA\u00c7\u00d5ES S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Previd\u00eancia e seguros",
+        "Segmento": "Seguradoras"
+    },
+    "ABCB4": {
+        "Nome de preg\u00e3o": "ABC BRASIL",
+        "CNPJ": "28.195.667/0001-06",
+        "Nome": "BCO ABC BRASIL S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BRIV4": {
+        "Nome de preg\u00e3o": "ALFA INVEST",
+        "CNPJ": "60.770.336/0001-65",
+        "Nome": "BCO ALFA DE INVESTIMENTO S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BRIV3": {
+        "Nome de preg\u00e3o": "ALFA INVEST",
+        "CNPJ": "60.770.336/0001-65",
+        "Nome": "BCO ALFA DE INVESTIMENTO S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BAZA3": {
+        "Nome de preg\u00e3o": "AMAZONIA",
+        "CNPJ": "04.902.979/0001-44",
+        "Nome": "BCO AMAZONIA S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BBDC3": {
+        "Nome de preg\u00e3o": "BRADESCO",
+        "CNPJ": "60.746.948/0001-12",
+        "Nome": "BCO BRADESCO S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BBDC4": {
+        "Nome de preg\u00e3o": "BRADESCO",
+        "CNPJ": "60.746.948/0001-12",
+        "Nome": "BCO BRADESCO S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BBAS3": {
+        "Nome de preg\u00e3o": "BRASIL",
+        "CNPJ": "00.000.000/0001-91",
+        "Nome": "BCO BRASIL S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BPAC3": {
+        "Nome de preg\u00e3o": "BTGP BANCO",
+        "CNPJ": "30.306.294/0001-45",
+        "Nome": "BCO BTG PACTUAL S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BPAC5": {
+        "Nome de preg\u00e3o": "BTGP BANCO",
+        "CNPJ": "30.306.294/0001-45",
+        "Nome": "BCO BTG PACTUAL S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BPAC11": {
+        "Nome de preg\u00e3o": "BTGP BANCO",
+        "CNPJ": "30.306.294/0001-45",
+        "Nome": "BCO BTG PACTUAL S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BGIP4": {
+        "Nome de preg\u00e3o": "BANESE",
+        "CNPJ": "13.009.717/0001-46",
+        "Nome": "BCO ESTADO DE SERGIPE S.A. \u2013 BANESE",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BGIP3": {
+        "Nome de preg\u00e3o": "BANESE",
+        "CNPJ": "13.009.717/0001-46",
+        "Nome": "BCO ESTADO DE SERGIPE S.A. \u2013 BANESE",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BRSR3": {
+        "Nome de preg\u00e3o": "BANRISUL",
+        "CNPJ": "92.702.067/0001-96",
+        "Nome": "BCO ESTADO DO RIO GRANDE DO SUL S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BRSR6": {
+        "Nome de preg\u00e3o": "BANRISUL",
+        "CNPJ": "92.702.067/0001-96",
+        "Nome": "BCO ESTADO DO RIO GRANDE DO SUL S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BRSR5": {
+        "Nome de preg\u00e3o": "BANRISUL",
+        "CNPJ": "92.702.067/0001-96",
+        "Nome": "BCO ESTADO DO RIO GRANDE DO SUL S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BMIN4": {
+        "Nome de preg\u00e3o": "MERC INVEST",
+        "CNPJ": "34.169.557/0001-72",
+        "Nome": "BCO MERCANTIL DE INVESTIMENTOS S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BMIN3": {
+        "Nome de preg\u00e3o": "MERC INVEST",
+        "CNPJ": "34.169.557/0001-72",
+        "Nome": "BCO MERCANTIL DE INVESTIMENTOS S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BMEB4": {
+        "Nome de preg\u00e3o": "MERC BRASIL",
+        "CNPJ": "17.184.037/0001-10",
+        "Nome": "BCO MERCANTIL DO BRASIL S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BMEB3": {
+        "Nome de preg\u00e3o": "MERC BRASIL",
+        "CNPJ": "17.184.037/0001-10",
+        "Nome": "BCO MERCANTIL DO BRASIL S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BNBR3": {
+        "Nome de preg\u00e3o": "NORD BRASIL",
+        "CNPJ": "07.237.373/0001-20",
+        "Nome": "BCO NORDESTE DO BRASIL S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BPAN4": {
+        "Nome de preg\u00e3o": "BANCO PAN",
+        "CNPJ": "59.285.411/0001-13",
+        "Nome": "BCO PAN S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "PINE4": {
+        "Nome de preg\u00e3o": "PINE",
+        "CNPJ": "62.144.175/0001-20",
+        "Nome": "BCO PINE S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "SANB3": {
+        "Nome de preg\u00e3o": "SANTANDER BR",
+        "CNPJ": "90.400.888/0001-42",
+        "Nome": "BCO SANTANDER (BRASIL) S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "SANB4": {
+        "Nome de preg\u00e3o": "SANTANDER BR",
+        "CNPJ": "90.400.888/0001-42",
+        "Nome": "BCO SANTANDER (BRASIL) S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "SANB11": {
+        "Nome de preg\u00e3o": "SANTANDER BR",
+        "CNPJ": "90.400.888/0001-42",
+        "Nome": "BCO SANTANDER (BRASIL) S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BMKS3": {
+        "Nome de preg\u00e3o": "BIC MONARK",
+        "CNPJ": "56.992.423/0001-90",
+        "Nome": "BICICLETAS MONARK S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Viagens e lazer",
+        "Segmento": "Bicicletas"
+    },
+    "BIOM3": {
+        "Nome de preg\u00e3o": "BIOMM",
+        "CNPJ": "04.752.991/0001-10",
+        "Nome": "BIOMM S.A.",
+        "Setor": "Sa\u00fade",
+        "Sub Setor": "Medicamentos e outros produtos",
+        "Segmento": "Medicamentos e outros produtos"
+    },
+    "BOBR4": {
+        "Nome de preg\u00e3o": "BOMBRIL",
+        "CNPJ": "50.564.053/0001-03",
+        "Nome": "BOMBRIL S.A.",
+        "Setor": "Consumo n\u00e3o c\u00edclico",
+        "Sub Setor": "Produtos de uso pessoal de limpeza",
+        "Segmento": "Produtos de limpeza"
+    },
+    "BRPR3": {
+        "Nome de preg\u00e3o": "BR PROPERT",
+        "CNPJ": "06.977.751/0001-49",
+        "Nome": "BR PROPERTIES S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Explora\u00e7\u00e3o de im\u00f3veis",
+        "Segmento": "Explora\u00e7\u00e3o de im\u00f3veis"
+    },
+    "BRAP3": {
+        "Nome de preg\u00e3o": "BRADESPAR",
+        "CNPJ": "03.847.461/0001-92",
+        "Nome": "BRADESPAR S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Minera\u00e7\u00e3o",
+        "Segmento": "Minerais met\u00e1licos"
+    },
+    "BRAP4": {
+        "Nome de preg\u00e3o": "BRADESPAR",
+        "CNPJ": "03.847.461/0001-92",
+        "Nome": "BRADESPAR S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Minera\u00e7\u00e3o",
+        "Segmento": "Minerais met\u00e1licos"
+    },
+    "AGRO3": {
+        "Nome de preg\u00e3o": "BRASILAGRO",
+        "CNPJ": "07.628.528/0001-59",
+        "Nome": "BRASILAGRO \u2013 CIA BRAS DE PROP AGRICOLAS",
+        "Setor": "Consumo n\u00e3o c\u00edclico",
+        "Sub Setor": "Agropecu\u00e1ria",
+        "Segmento": "Agricultura"
+    },
+    "BRKM3": {
+        "Nome de preg\u00e3o": "BRASKEM",
+        "CNPJ": "42.150.391/0001-70",
+        "Nome": "BRASKEM S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Qu\u00edmicos",
+        "Segmento": "Petroqu\u00edmicos"
+    },
+    "BRKM5": {
+        "Nome de preg\u00e3o": "BRASKEM",
+        "CNPJ": "42.150.391/0001-70",
+        "Nome": "BRASKEM S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Qu\u00edmicos",
+        "Segmento": "Petroqu\u00edmicos"
+    },
+    "BRKM6": {
+        "Nome de preg\u00e3o": "BRASKEM",
+        "CNPJ": "42.150.391/0001-70",
+        "Nome": "BRASKEM S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Qu\u00edmicos",
+        "Segmento": "Petroqu\u00edmicos"
+    },
+    "BSLI4": {
+        "Nome de preg\u00e3o": "BRB BANCO",
+        "CNPJ": "00.000.208/0001-00",
+        "Nome": "BRB BCO DE BRASILIA S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BSLI3": {
+        "Nome de preg\u00e3o": "BRB BANCO",
+        "CNPJ": "00.000.208/0001-00",
+        "Nome": "BRB BCO DE BRASILIA S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BRFS3": {
+        "Nome de preg\u00e3o": "BRF SA",
+        "CNPJ": "01.838.723/0001-27",
+        "Nome": "BRF S.A.",
+        "Setor": "Consumo n\u00e3o c\u00edclico",
+        "Sub Setor": "Alimentos processados",
+        "Segmento": "Carnes e derivados"
+    },
+    "CAML3": {
+        "Nome de preg\u00e3o": "CAMIL",
+        "CNPJ": "64.904.295/0001-03",
+        "Nome": "CAMIL ALIMENTOS S.A.",
+        "Setor": "Consumo n\u00e3o c\u00edclico",
+        "Sub Setor": "Alimentos processados",
+        "Segmento": "Alimentos diversos"
+    },
+    "CCRO3": {
+        "Nome de preg\u00e3o": "CCR SA",
+        "CNPJ": "02.846.056/0001-97",
+        "Nome": "CCR S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Transporte",
+        "Segmento": "Explora\u00e7\u00e3o de rodovias"
+    },
+    "CEAB3": {
+        "Nome de preg\u00e3o": "CEA MODAS",
+        "CNPJ": "45.242.914/0001-05",
+        "Nome": "CEA MODAS S.A.",
+        "Setor": "Consumo C\u00edclico",
+        "Sub Setor": "Com\u00e9rcio",
+        "Segmento": "Tecidos. Vestu\u00e1rio e Cal\u00e7ados"
+    },
+    "MAPT4": {
+        "Nome de preg\u00e3o": "CEMEPE",
+        "CNPJ": "93.828.986/0001-73",
+        "Nome": "CEMEPE INVESTIMENTOS S.A.",
+        "Setor": "Outros",
+        "Sub Setor": "Outros",
+        "Segmento": "Outros"
+    },
+    "MAPT3": {
+        "Nome de preg\u00e3o": "CEMEPE",
+        "CNPJ": "93.828.986/0001-73",
+        "Nome": "CEMEPE INVESTIMENTOS S.A.",
+        "Setor": "Outros",
+        "Sub Setor": "Outros",
+        "Segmento": "Outros"
+    },
+    "ELET3": {
+        "Nome de preg\u00e3o": "ELETROBRAS",
+        "CNPJ": "00.001.180/0001-26",
+        "Nome": "CENTRAIS ELET BRAS S.A. \u2013 ELETROBRAS",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "ELET5": {
+        "Nome de preg\u00e3o": "ELETROBRAS",
+        "CNPJ": "00.001.180/0001-26",
+        "Nome": "CENTRAIS ELET BRAS S.A. \u2013 ELETROBRAS",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "ELET6": {
+        "Nome de preg\u00e3o": "ELETROBRAS",
+        "CNPJ": "00.001.180/0001-26",
+        "Nome": "CENTRAIS ELET BRAS S.A. \u2013 ELETROBRAS",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "CLSC4": {
+        "Nome de preg\u00e3o": "CELESC",
+        "CNPJ": "83.878.892/0001-55",
+        "Nome": "CENTRAIS ELET DE SANTA CATARINA S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "CLSC3": {
+        "Nome de preg\u00e3o": "CELESC",
+        "CNPJ": "83.878.892/0001-55",
+        "Nome": "CENTRAIS ELET DE SANTA CATARINA S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "AALR3": {
+        "Nome de preg\u00e3o": "ALLIAR",
+        "CNPJ": "42.771.949/0001-35",
+        "Nome": "CENTRO DE IMAGEM DIAGNOSTICOS S.A.",
+        "Setor": "Sa\u00fade",
+        "Sub Setor": "Servi\u00e7os m\u00e9dico - hospitalares, an\u00e1lises e diagn\u00f3sticos",
+        "Segmento": "Servi\u00e7os m\u00e9dico - hospitalares, an\u00e1lises e diagn\u00f3sticos "
+    },
+    "PCAR3": {
+        "Nome de preg\u00e3o": "P.ACUCAR-CBD",
+        "CNPJ": "47.508.411/0001-56",
+        "Nome": "CIA BRASILEIRA DE DISTRIBUICAO",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Com\u00e9rcio e distribui\u00e7\u00e3o",
+        "Segmento": "Alimentos"
+    },
+    "CASN3": {
+        "Nome de preg\u00e3o": "CASAN",
+        "CNPJ": "82.508.433/0001-17",
+        "Nome": "CIA CATARINENSE DE AGUAS E SANEAM.-CASAN",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "\u00c1gua e saneamento",
+        "Segmento": "\u00c1gua e saneamento"
+    },
+    "GPAR3": {
+        "Nome de preg\u00e3o": "CELGPAR",
+        "CNPJ": "08.560.444/0001-93",
+        "Nome": "CIA CELG DE PARTICIPACOES \u2013 CELGPAR",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "CEGR3": {
+        "Nome de preg\u00e3o": "CEG",
+        "CNPJ": "33.938.119/0001-69",
+        "Nome": "CIA DISTRIB DE GAS DO RIO DE JANEIRO-CEG",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "G\u00e1s",
+        "Segmento": "G\u00e1s"
+    },
+    "CEEB3": {
+        "Nome de preg\u00e3o": "COELBA",
+        "CNPJ": "15.139.629/0001-94",
+        "Nome": "CIA ELETRICIDADE EST. DA BAHIA \u2013 COELBA",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "CEEB5": {
+        "Nome de preg\u00e3o": "COELBA",
+        "CNPJ": "15.139.629/0001-94",
+        "Nome": "CIA ELETRICIDADE EST. DA BAHIA \u2013 COELBA",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "CEBR5": {
+        "Nome de preg\u00e3o": "CEB",
+        "CNPJ": "00.070.698/0001-11",
+        "Nome": "CIA ENERGETICA DE BRASILIA",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "CEBR6": {
+        "Nome de preg\u00e3o": "CEB",
+        "CNPJ": "00.070.698/0001-11",
+        "Nome": "CIA ENERGETICA DE BRASILIA",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "CEBR3": {
+        "Nome de preg\u00e3o": "CEB",
+        "CNPJ": "00.070.698/0001-11",
+        "Nome": "CIA ENERGETICA DE BRASILIA",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "CMIG3": {
+        "Nome de preg\u00e3o": "CEMIG",
+        "CNPJ": "17.155.730/0001-64",
+        "Nome": "CIA ENERGETICA DE MINAS GERAIS \u2013 CEMIG",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "CMIG4": {
+        "Nome de preg\u00e3o": "CEMIG",
+        "CNPJ": "17.155.730/0001-64",
+        "Nome": "CIA ENERGETICA DE MINAS GERAIS \u2013 CEMIG",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "COCE3": {
+        "Nome de preg\u00e3o": "COELCE",
+        "CNPJ": "07.047.251/0001-70",
+        "Nome": "CIA ENERGETICA DO CEARA \u2013 COELCE",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "COCE5": {
+        "Nome de preg\u00e3o": "COELCE",
+        "CNPJ": "07.047.251/0001-70",
+        "Nome": "CIA ENERGETICA DO CEARA \u2013 COELCE",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "CSRN3": {
+        "Nome de preg\u00e3o": "COSERN",
+        "CNPJ": "08.324.196/0001-81",
+        "Nome": "CIA ENERGETICA DO RIO GDE NORTE \u2013 COSERN",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "CSRN5": {
+        "Nome de preg\u00e3o": "COSERN",
+        "CNPJ": "08.324.196/0001-81",
+        "Nome": "CIA ENERGETICA DO RIO GDE NORTE \u2013 COSERN",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "CSRN6": {
+        "Nome de preg\u00e3o": "COSERN",
+        "CNPJ": "08.324.196/0001-81",
+        "Nome": "CIA ENERGETICA DO RIO GDE NORTE \u2013 COSERN",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "CEED3": {
+        "Nome de preg\u00e3o": "CEEE-D",
+        "CNPJ": "08.467.115/0001-00",
+        "Nome": "CIA ESTADUAL DE DISTRIB ENER ELET-CEEE-D",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "CEED4": {
+        "Nome de preg\u00e3o": "CEEE-D",
+        "CNPJ": "08.467.115/0001-00",
+        "Nome": "CIA ESTADUAL DE DISTRIB ENER ELET-CEEE-D",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "FESA3": {
+        "Nome de preg\u00e3o": "FERBASA",
+        "CNPJ": "15.141.799/0001-03",
+        "Nome": "CIA FERRO LIGAS DA BAHIA \u2013 FERBASA",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Minera\u00e7\u00e3o",
+        "Segmento": "Siderurgia"
+    },
+    "FESA4": {
+        "Nome de preg\u00e3o": "FERBASA",
+        "CNPJ": "15.141.799/0001-03",
+        "Nome": "CIA FERRO LIGAS DA BAHIA \u2013 FERBASA",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Minera\u00e7\u00e3o",
+        "Segmento": "Siderurgia"
+    },
+    "CEDO4": {
+        "Nome de preg\u00e3o": "CEDRO",
+        "CNPJ": "17.245.234/0001-00",
+        "Nome": "CIA FIACAO TECIDOS CEDRO CACHOEIRA",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Fios e tecidos"
+    },
+    "CEDO3": {
+        "Nome de preg\u00e3o": "CEDRO",
+        "CNPJ": "17.245.234/0001-00",
+        "Nome": "CIA FIACAO TECIDOS CEDRO CACHOEIRA",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Fios e tecidos"
+    },
+    "CGAS3": {
+        "Nome de preg\u00e3o": "COMGAS",
+        "CNPJ": "61.856.571/0001-17",
+        "Nome": "CIA GAS DE SAO PAULO \u2013 COMGAS",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "G\u00e1s",
+        "Segmento": "G\u00e1s"
+    },
+    "CGAS5": {
+        "Nome de preg\u00e3o": "COMGAS",
+        "CNPJ": "61.856.571/0001-17",
+        "Nome": "CIA GAS DE SAO PAULO \u2013 COMGAS",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "G\u00e1s",
+        "Segmento": "G\u00e1s"
+    },
+    "HBTS5": {
+        "Nome de preg\u00e3o": "HABITASUL",
+        "CNPJ": "87.762.563/0001-03",
+        "Nome": "CIA HABITASUL DE PARTICIPACOES",
+        "Setor": "Financeiro",
+        "Sub Setor": "Explora\u00e7\u00e3o de im\u00f3veis",
+        "Segmento": "Explora\u00e7\u00e3o de im\u00f3veis"
+    },
+    "MSPA3": {
+        "Nome de preg\u00e3o": "MELHOR SP",
+        "CNPJ": "60.730.348/0001-66",
+        "Nome": "CIA MELHORAMENTOS DE SAO PAULO",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Madeira e papel",
+        "Segmento": "Papel e celul\u00f3se"
+    },
+    "MSPA4": {
+        "Nome de preg\u00e3o": "MELHOR SP",
+        "CNPJ": "60.730.348/0001-66",
+        "Nome": "CIA MELHORAMENTOS DE SAO PAULO",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Madeira e papel",
+        "Segmento": "Papel e celul\u00f3se"
+    },
+    "CPLE3": {
+        "Nome de preg\u00e3o": "COPEL",
+        "CNPJ": "76.483.817/0001-20",
+        "Nome": "CIA PARANAENSE DE ENERGIA \u2013 COPEL",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "CPLE6": {
+        "Nome de preg\u00e3o": "COPEL",
+        "CNPJ": "76.483.817/0001-20",
+        "Nome": "CIA PARANAENSE DE ENERGIA \u2013 COPEL",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "PEAB3": {
+        "Nome de preg\u00e3o": "PAR AL BAHIA",
+        "CNPJ": "01.938.783/0001-11",
+        "Nome": "CIA PARTICIPACOES ALIANCA DA BAHIA",
+        "Setor": "Financeiro",
+        "Sub Setor": "Holdings diversificadas",
+        "Segmento": "Holdings diversificadas"
+    },
+    "PEAB4": {
+        "Nome de preg\u00e3o": "PAR AL BAHIA",
+        "CNPJ": "01.938.783/0001-11",
+        "Nome": "CIA PARTICIPACOES ALIANCA DA BAHIA",
+        "Setor": "Financeiro",
+        "Sub Setor": "Holdings diversificadas",
+        "Segmento": "Holdings diversificadas"
+    },
+    "SBSP3": {
+        "Nome de preg\u00e3o": "SABESP",
+        "CNPJ": "43.776.517/0001-80",
+        "Nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "\u00c1gua e saneamento",
+        "Segmento": "\u00c1gua e saneamento"
+    },
+    "CSMG3": {
+        "Nome de preg\u00e3o": "COPASA",
+        "CNPJ": "17.281.106/0001-03",
+        "Nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "\u00c1gua e saneamento",
+        "Segmento": "\u00c1gua e saneamento"
+    },
+    "SAPR3": {
+        "Nome de preg\u00e3o": "SANEPAR",
+        "CNPJ": "76.484.013/0001-45",
+        "Nome": "CIA SANEAMENTO DO PARANA \u2013 SANEPAR",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "\u00c1gua e saneamento",
+        "Segmento": "\u00c1gua e saneamento"
+    },
+    "SAPR4": {
+        "Nome de preg\u00e3o": "SANEPAR",
+        "CNPJ": "76.484.013/0001-45",
+        "Nome": "CIA SANEAMENTO DO PARANA \u2013 SANEPAR",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "\u00c1gua e saneamento",
+        "Segmento": "\u00c1gua e saneamento"
+    },
+    "SAPR11": {
+        "Nome de preg\u00e3o": "SANEPAR",
+        "CNPJ": "76.484.013/0001-45",
+        "Nome": "CIA SANEAMENTO DO PARANA \u2013 SANEPAR",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "\u00c1gua e saneamento",
+        "Segmento": "\u00c1gua e saneamento"
+    },
+    "CSAB3": {
+        "Nome de preg\u00e3o": "SEG AL BAHIA",
+        "CNPJ": "15.144.017/0001-90",
+        "Nome": "CIA SEGUROS ALIANCA DA BAHIA",
+        "Setor": "Financeiro",
+        "Sub Setor": "Previd\u00eancia e seguros",
+        "Segmento": "Seguradoras"
+    },
+    "CSAB4": {
+        "Nome de preg\u00e3o": "SEG AL BAHIA",
+        "CNPJ": "15.144.017/0001-90",
+        "Nome": "CIA SEGUROS ALIANCA DA BAHIA",
+        "Setor": "Financeiro",
+        "Sub Setor": "Previd\u00eancia e seguros",
+        "Segmento": "Seguradoras"
+    },
+    "CSNA3": {
+        "Nome de preg\u00e3o": "SID NACIONAL",
+        "CNPJ": "33.042.730/0001-04",
+        "Nome": "CIA SIDERURGICA NACIONAL",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Minera\u00e7\u00e3o",
+        "Segmento": "Siderurgia"
+    },
+    "CTNM3": {
+        "Nome de preg\u00e3o": "COTEMINAS",
+        "CNPJ": "22.677.520/0001-76",
+        "Nome": "CIA TECIDOS NORTE DE MINAS COTEMINAS",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Fios e tecidos"
+    },
+    "CTNM4": {
+        "Nome de preg\u00e3o": "COTEMINAS",
+        "CNPJ": "22.677.520/0001-76",
+        "Nome": "CIA TECIDOS NORTE DE MINAS COTEMINAS",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Fios e tecidos"
+    },
+    "CTSA3": {
+        "Nome de preg\u00e3o": "SANTANENSE",
+        "CNPJ": "21.255.567/0001-89",
+        "Nome": "CIA TECIDOS SANTANENSE",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Fios e tecidos"
+    },
+    "CTSA4": {
+        "Nome de preg\u00e3o": "SANTANENSE",
+        "CNPJ": "21.255.567/0001-89",
+        "Nome": "CIA TECIDOS SANTANENSE",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Fios e tecidos"
+    },
+    "CIEL3": {
+        "Nome de preg\u00e3o": "CIELO",
+        "CNPJ": "01.027.058/0001-91",
+        "Nome": "CIELO S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Servi\u00e7os financeiros diversos",
+        "Segmento": "Servi\u00e7os financeiros diversos"
+    },
+    "BRGE3": {
+        "Nome de preg\u00e3o": "ALFA CONSORC",
+        "CNPJ": "17.193.806/0001-46",
+        "Nome": "CONSORCIO ALFA DE ADMINISTRACAO S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Previd\u00eancia e seguros",
+        "Segmento": "Seguradoras"
+    },
+    "BRGE5": {
+        "Nome de preg\u00e3o": "ALFA CONSORC",
+        "CNPJ": "17.193.806/0001-46",
+        "Nome": "CONSORCIO ALFA DE ADMINISTRACAO S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Previd\u00eancia e seguros",
+        "Segmento": "Seguradoras"
+    },
+    "BRGE8": {
+        "Nome de preg\u00e3o": "ALFA CONSORC",
+        "CNPJ": "17.193.806/0001-46",
+        "Nome": "CONSORCIO ALFA DE ADMINISTRACAO S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Previd\u00eancia e seguros",
+        "Segmento": "Seguradoras"
+    },
+    "BRGE11": {
+        "Nome de preg\u00e3o": "ALFA CONSORC",
+        "CNPJ": "17.193.806/0001-46",
+        "Nome": "CONSORCIO ALFA DE ADMINISTRACAO S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Previd\u00eancia e seguros",
+        "Segmento": "Seguradoras"
+    },
+    "BRGE6": {
+        "Nome de preg\u00e3o": "ALFA CONSORC",
+        "CNPJ": "17.193.806/0001-46",
+        "Nome": "CONSORCIO ALFA DE ADMINISTRACAO S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Previd\u00eancia e seguros",
+        "Segmento": "Seguradoras"
+    },
+    "TEND3": {
+        "Nome de preg\u00e3o": "TENDA",
+        "CNPJ": "71.476.527/0001-35",
+        "Nome": "CONSTRUTORA TENDA S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Constru\u00e7\u00e3o civil",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "CORR4": {
+        "Nome de preg\u00e3o": "COR RIBEIRO",
+        "CNPJ": "15.101.405/0001-93",
+        "Nome": "CORREA RIBEIRO S.A. COMERCIO E INDUSTRIA",
+        "Setor": "Financeiro",
+        "Sub Setor": "Explora\u00e7\u00e3o de im\u00f3veis",
+        "Segmento": "Explora\u00e7\u00e3o de im\u00f3veis"
+    },
+    "CSAN3": {
+        "Nome de preg\u00e3o": "COSAN",
+        "CNPJ": "50.746.577/0001-15",
+        "Nome": "COSAN S.A.",
+        "Setor": "Petr\u00f3leo, g\u00e1s e biocombust\u00edveis",
+        "Sub Setor": "Petr\u00f3leo, g\u00e1s e biocombust\u00edveis",
+        "Segmento": "Explora\u00e7\u00e3o, refino e distribui\u00e7\u00e3o"
+    },
+    "CPFE3": {
+        "Nome de preg\u00e3o": "CPFL ENERGIA",
+        "CNPJ": "02.429.144/0001-93",
+        "Nome": "CPFL ENERGIA S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "CRDE3": {
+        "Nome de preg\u00e3o": "CR2",
+        "CNPJ": "07.820.907/0001-46",
+        "Nome": "CR2 EMPREENDIMENTOS IMOBILIARIOS S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Constru\u00e7\u00e3o civil",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "TRPL3": {
+        "Nome de preg\u00e3o": "TRAN PAULIST",
+        "CNPJ": "02.998.611/0001-04",
+        "Nome": "CTEEP \u2013 CIA TRANSMISS\u00c3O ENERGIA EL\u00c9TRICA PAULISTA",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "TRPL4": {
+        "Nome de preg\u00e3o": "TRAN PAULIST",
+        "CNPJ": "02.998.611/0001-04",
+        "Nome": "CTEEP \u2013 CIA TRANSMISS\u00c3O ENERGIA EL\u00c9TRICA PAULISTA",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "CVCB3": {
+        "Nome de preg\u00e3o": "CVC BRASIL",
+        "CNPJ": "10.760.260/0001-19",
+        "Nome": "CVC BRASIL OPERADORA E AG\u00caNCIA DE VIAGENS S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Viagens e lazer",
+        "Segmento": "Viagens e turismo"
+    },
+    "CYRE3": {
+        "Nome de preg\u00e3o": "CYRELA REALT",
+        "CNPJ": "73.178.600/0001-18",
+        "Nome": "CYRELA BRAZIL REALTY S.A.EMPREEND E PART",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Constru\u00e7\u00e3o civil",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "DASA3": {
+        "Nome de preg\u00e3o": "DASA",
+        "CNPJ": "61.486.650/0001-83",
+        "Nome": "DIAGNOSTICOS DA AMERICA S.A.",
+        "Setor": "Sa\u00fade",
+        "Sub Setor": "Servi\u00e7os m\u00e9dico - hospitalares, an\u00e1lises e diagn\u00f3sticos",
+        "Segmento": "Servi\u00e7os m\u00e9dico - hospitalares, an\u00e1lises e diagn\u00f3sticos "
+    },
+    "PNVL3": {
+        "Nome de preg\u00e3o": "DIMED",
+        "CNPJ": "92.665.611/0001-77",
+        "Nome": "DIMED S.A. DISTRIBUIDORA DE MEDICAMENTOS",
+        "Setor": "Sa\u00fade",
+        "Sub Setor": "Com\u00e9rcio e distribui\u00e7\u00e3o",
+        "Segmento": "Medicamentos e outros produtos"
+    },
+    "DIRR3": {
+        "Nome de preg\u00e3o": "DIRECIONAL",
+        "CNPJ": "16.614.075/0001-00",
+        "Nome": "DIRECIONAL ENGENHARIA S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Constru\u00e7\u00e3o civil",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "DOHL4": {
+        "Nome de preg\u00e3o": "DOHLER",
+        "CNPJ": "84.683.408/0001-03",
+        "Nome": "DOHLER S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Fios e tecidos"
+    },
+    "DOHL3": {
+        "Nome de preg\u00e3o": "DOHLER",
+        "CNPJ": "84.683.408/0001-03",
+        "Nome": "DOHLER S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Fios e tecidos"
+    },
+    "DTCY3": {
+        "Nome de preg\u00e3o": "DTCOM-DIRECT",
+        "CNPJ": "03.303.999/0001-36",
+        "Nome": "DTCOM \u2013 DIRECT TO COMPANY S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Servi\u00e7os diversos",
+        "Segmento": "Servi\u00e7os diversos"
+    },
+    "ECOR3": {
+        "Nome de preg\u00e3o": "ECORODOVIAS",
+        "CNPJ": "04.149.454/0001-80",
+        "Nome": "ECORODOVIAS INFRAESTRUTURA E LOG\u00cdSTICA S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Transporte",
+        "Segmento": "Explora\u00e7\u00e3o de rodovias"
+    },
+    "ENBR3": {
+        "Nome de preg\u00e3o": "ENERGIAS BR",
+        "CNPJ": "03.983.431/0001-03",
+        "Nome": "EDP \u2013 ENERGIAS DO BRASIL S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "EALT4": {
+        "Nome de preg\u00e3o": "ACO ALTONA",
+        "CNPJ": "82.643.537/0001-34",
+        "Nome": "ELECTRO ACO ALTONA S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "M\u00e1quinas e equipamentos",
+        "Segmento": "M\u00e1q. e equip. industriais"
+    },
+    "EALT3": {
+        "Nome de preg\u00e3o": "ACO ALTONA",
+        "CNPJ": "82.643.537/0001-34",
+        "Nome": "ELECTRO ACO ALTONA S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "M\u00e1quinas e equipamentos",
+        "Segmento": "M\u00e1q. e equip. industriais"
+    },
+    "EKTR4": {
+        "Nome de preg\u00e3o": "ELEKTRO",
+        "CNPJ": "02.328.280/0001-97",
+        "Nome": "ELEKTRO REDES S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "EKTR3": {
+        "Nome de preg\u00e3o": "ELEKTRO",
+        "CNPJ": "02.328.280/0001-97",
+        "Nome": "ELEKTRO REDES S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "LIPR3": {
+        "Nome de preg\u00e3o": "ELETROPAR",
+        "CNPJ": "01.104.937/0001-70",
+        "Nome": "ELETROBR\u00c1S PARTICIPA\u00c7\u00d5ES S.A. \u2013 ELETROPAR",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "EMAE4": {
+        "Nome de preg\u00e3o": "EMAE",
+        "CNPJ": "02.302.101/0001-42",
+        "Nome": "EMAE \u2013 EMPRESA METROP.AGUAS ENERGIA S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "EMBR3": {
+        "Nome de preg\u00e3o": "EMBRAER",
+        "CNPJ": "07.689.002/0001-89",
+        "Nome": "EMBRAER S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Material de transporte",
+        "Segmento": "Material aeron\u00e1utico e de defesa"
+    },
+    "ECPR3": {
+        "Nome de preg\u00e3o": "ENCORPAR",
+        "CNPJ": "01.971.614/0001-83",
+        "Nome": "EMPRESA NAC COM REDITO PART S.A.ENCORPAR",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Fios e tecidos"
+    },
+    "ECPR4": {
+        "Nome de preg\u00e3o": "ENCORPAR",
+        "CNPJ": "01.971.614/0001-83",
+        "Nome": "EMPRESA NAC COM REDITO PART S.A.ENCORPAR",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Fios e tecidos"
+    },
+    "ENAT3": {
+        "Nome de preg\u00e3o": "ENAUTA PART",
+        "CNPJ": "11.669.021/0001-10",
+        "Nome": "ENAUTA PARTICIPA\u00c7\u00d5ES S.A.",
+        "Setor": "Petr\u00f3leo, g\u00e1s e biocombust\u00edveis",
+        "Sub Setor": "Petr\u00f3leo, g\u00e1s e biocombust\u00edveis",
+        "Segmento": "Explora\u00e7\u00e3o, refino e distribui\u00e7\u00e3o"
+    },
+    "ENMT3": {
+        "Nome de preg\u00e3o": "ENERGISA MT",
+        "CNPJ": "03.467.321/0001-99",
+        "Nome": "ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "ENMT4": {
+        "Nome de preg\u00e3o": "ENERGISA MT",
+        "CNPJ": "03.467.321/0001-99",
+        "Nome": "ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "ENGI3": {
+        "Nome de preg\u00e3o": "ENERGISA",
+        "CNPJ": "00.864.214/0001-06",
+        "Nome": "ENERGISA S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "ENGI4": {
+        "Nome de preg\u00e3o": "ENERGISA",
+        "CNPJ": "00.864.214/0001-06",
+        "Nome": "ENERGISA S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "ENGI11": {
+        "Nome de preg\u00e3o": "ENERGISA",
+        "CNPJ": "00.864.214/0001-06",
+        "Nome": "ENERGISA S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "ENEV3": {
+        "Nome de preg\u00e3o": "ENEVA",
+        "CNPJ": "04.423.567/0001-21",
+        "Nome": "ENEVA S.A",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "EGIE3": {
+        "Nome de preg\u00e3o": "ENGIE BRASIL",
+        "CNPJ": "02.474.103/0001-19",
+        "Nome": "ENGIE BRASIL ENERGIA S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "EQTL3": {
+        "Nome de preg\u00e3o": "EQUATORIAL",
+        "CNPJ": "03.220.438/0001-73",
+        "Nome": "EQUATORIAL ENERGIA S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "ETER3": {
+        "Nome de preg\u00e3o": "ETERNIT",
+        "CNPJ": "61.092.037/0001-81",
+        "Nome": "ETERNIT S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Constru\u00e7\u00e3o e engenharia",
+        "Segmento": "Produtos para constru\u00e7\u00e3o"
+    },
+    "EUCA4": {
+        "Nome de preg\u00e3o": "EUCATEX",
+        "CNPJ": "56.643.018/0001-66",
+        "Nome": "EUCATEX S.A. INDUSTRIA E COMERCIO",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Madeira e papel",
+        "Segmento": "Madeira"
+    },
+    "EUCA3": {
+        "Nome de preg\u00e3o": "EUCATEX",
+        "CNPJ": "56.643.018/0001-66",
+        "Nome": "EUCATEX S.A. INDUSTRIA E COMERCIO",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Madeira e papel",
+        "Segmento": "Madeira"
+    },
+    "EVEN3": {
+        "Nome de preg\u00e3o": "EVEN",
+        "CNPJ": "43.470.988/0001-65",
+        "Nome": "EVEN CONSTRUTORA E INCORPORADORA S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Constru\u00e7\u00e3o civil",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "BAUH4": {
+        "Nome de preg\u00e3o": "EXCELSIOR",
+        "CNPJ": "95.426.862/0001-97",
+        "Nome": "EXCELSIOR ALIMENTOS S.A.",
+        "Setor": "Consumo n\u00e3o c\u00edclico",
+        "Sub Setor": "Alimentos processados",
+        "Segmento": "Carnes e derivados"
+    },
+    "EZTC3": {
+        "Nome de preg\u00e3o": "EZTEC",
+        "CNPJ": "08.312.229/0001-73",
+        "Nome": "EZ TEC EMPREEND. E PARTICIPACOES S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Constru\u00e7\u00e3o civil",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "FHER3": {
+        "Nome de preg\u00e3o": "FER HERINGER",
+        "CNPJ": "22.266.175/0001-88",
+        "Nome": "FERTILIZANTES HERINGER S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Qu\u00edmicos",
+        "Segmento": "Fertilizantes e defensivos"
+    },
+    "CRIV3": {
+        "Nome de preg\u00e3o": "ALFA FINANC",
+        "CNPJ": "17.167.412/0001-13",
+        "Nome": "FINANCEIRA ALFA S.A.- CRED FINANC E INVS",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Soc. cr\u00e9dito e financiamento"
+    },
+    "CRIV4": {
+        "Nome de preg\u00e3o": "ALFA FINANC",
+        "CNPJ": "17.167.412/0001-13",
+        "Nome": "FINANCEIRA ALFA S.A.- CRED FINANC E INVS",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Soc. cr\u00e9dito e financiamento"
+    },
+    "FLRY3": {
+        "Nome de preg\u00e3o": "FLEURY",
+        "CNPJ": "60.840.055/0001-31",
+        "Nome": "FLEURY S.A.",
+        "Setor": "Sa\u00fade",
+        "Sub Setor": "Servi\u00e7os m\u00e9dico - hospitalares, an\u00e1lises e diagn\u00f3sticos",
+        "Segmento": "Servi\u00e7os m\u00e9dico - hospitalares, an\u00e1lises e diagn\u00f3sticos "
+    },
+    "FRAS3": {
+        "Nome de preg\u00e3o": "FRAS-LE",
+        "CNPJ": "88.610.126/0001-29",
+        "Nome": "FRAS-LE S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Material de transporte",
+        "Segmento": "Material rodovi\u00e1rio"
+    },
+    "GFSA3": {
+        "Nome de preg\u00e3o": "GAFISA",
+        "CNPJ": "01.545.826/0001-07",
+        "Nome": "GAFISA S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Constru\u00e7\u00e3o civil",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "GSHP3": {
+        "Nome de preg\u00e3o": "GENERALSHOPP",
+        "CNPJ": "08.764.621/0001-53",
+        "Nome": "GENERAL SHOPPING E OUTLETS DO BRASIL S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Explora\u00e7\u00e3o de im\u00f3veis",
+        "Segmento": "Explora\u00e7\u00e3o de im\u00f3veis"
+    },
+    "GGBR3": {
+        "Nome de preg\u00e3o": "GERDAU",
+        "CNPJ": "33.611.500/0001-19",
+        "Nome": "GERDAU S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Minera\u00e7\u00e3o",
+        "Segmento": "Siderurgia"
+    },
+    "GGBR4": {
+        "Nome de preg\u00e3o": "GERDAU",
+        "CNPJ": "33.611.500/0001-19",
+        "Nome": "GERDAU S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Minera\u00e7\u00e3o",
+        "Segmento": "Siderurgia"
+    },
+    "GOLL4": {
+        "Nome de preg\u00e3o": "GOL",
+        "CNPJ": "06.164.253/0001-87",
+        "Nome": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Transporte",
+        "Segmento": "Transporte a\u00e9reo"
+    },
+    "CGRA3": {
+        "Nome de preg\u00e3o": "GRAZZIOTIN",
+        "CNPJ": "92.012.467/0001-70",
+        "Nome": "GRAZZIOTIN S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Com\u00e9rcio",
+        "Segmento": "Tecidos, vestu\u00e1rio e cal\u00e7ados "
+    },
+    "CGRA4": {
+        "Nome de preg\u00e3o": "GRAZZIOTIN",
+        "CNPJ": "92.012.467/0001-70",
+        "Nome": "GRAZZIOTIN S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Com\u00e9rcio",
+        "Segmento": "Tecidos, vestu\u00e1rio e cal\u00e7ados "
+    },
+    "GRND3": {
+        "Nome de preg\u00e3o": "GRENDENE",
+        "CNPJ": "89.850.341/0001-60",
+        "Nome": "GRENDENE S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Cal\u00e7ados"
+    },
+    "GUAR3": {
+        "Nome de preg\u00e3o": "GUARARAPES",
+        "CNPJ": "08.402.943/0001-52",
+        "Nome": "GUARARAPES CONFECCOES S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Com\u00e9rcio",
+        "Segmento": "Tecidos, vestu\u00e1rio e cal\u00e7ados "
+    },
+    "HAGA4": {
+        "Nome de preg\u00e3o": "HAGA S/A",
+        "CNPJ": "30.540.991/0001-66",
+        "Nome": "HAGA S.A. INDUSTRIA E COMERCIO",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Constru\u00e7\u00e3o e engenharia",
+        "Segmento": "Produtos para constru\u00e7\u00e3o"
+    },
+    "HAGA3": {
+        "Nome de preg\u00e3o": "HAGA S/A",
+        "CNPJ": "30.540.991/0001-66",
+        "Nome": "HAGA S.A. INDUSTRIA E COMERCIO",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Constru\u00e7\u00e3o e engenharia",
+        "Segmento": "Produtos para constru\u00e7\u00e3o"
+    },
+    "HAPV3": {
+        "Nome de preg\u00e3o": "HAPVIDA",
+        "CNPJ": "05.197.443/0001-38",
+        "Nome": "HAPVIDA PARTICIPACOES E INVESTIMENTOS SA",
+        "Setor": "Sa\u00fade",
+        "Sub Setor": "Servi\u00e7os m\u00e9dico - hospitalares, an\u00e1lises e diagn\u00f3sticos",
+        "Segmento": "Servi\u00e7os m\u00e9dico - hospitalares, an\u00e1lises e diagn\u00f3sticos "
+    },
+    "HBOR3": {
+        "Nome de preg\u00e3o": "HELBOR",
+        "CNPJ": "49.263.189/0001-02",
+        "Nome": "HELBOR EMPREENDIMENTOS S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Constru\u00e7\u00e3o civil",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "HETA4": {
+        "Nome de preg\u00e3o": "HERCULES",
+        "CNPJ": "92.749.225/0001-63",
+        "Nome": "HERCULES S.A. FABRICA DE TALHERES",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Utilidades dom\u00e9sticas",
+        "Segmento": "Utens\u00edlios dom\u00e9sticos"
+    },
+    "HOOT4": {
+        "Nome de preg\u00e3o": "HOTEIS OTHON",
+        "CNPJ": "33.200.049/0001-47",
+        "Nome": "HOTEIS OTHON S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Hotelaria e restaurante",
+        "Segmento": "Hotelaria"
+    },
+    "HYPE3": {
+        "Nome de preg\u00e3o": "HYPERA",
+        "CNPJ": "02.932.074/0001-91",
+        "Nome": "HYPERA S.A.",
+        "Setor": "Sa\u00fade",
+        "Sub Setor": "Com\u00e9rcio e distribui\u00e7\u00e3o",
+        "Segmento": "Medicamentos e outros produtos"
+    },
+    "IGBR3": {
+        "Nome de preg\u00e3o": "GRADIENTE ON",
+        "CNPJ": "43.185.362/0001-07",
+        "Nome": "IGB ELETR\u00d4NICA SA",
+        "Setor": "Explora\u00e7\u00e3o de Im\u00f3veis",
+        "Sub Setor": "Explora\u00e7\u00e3o de Im\u00f3veis",
+        "Segmento": "Explora\u00e7\u00e3o de Im\u00f3veis"
+    },
+    "ROMI3": {
+        "Nome de preg\u00e3o": "INDS ROMI",
+        "CNPJ": "56.720.428/0001-63",
+        "Nome": "INDUSTRIAS ROMI S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "M\u00e1quinas e equipamentos",
+        "Segmento": "M\u00e1q. e equip. industriais"
+    },
+    "INEP3": {
+        "Nome de preg\u00e3o": "INEPAR",
+        "CNPJ": "76.627.504/0001-06",
+        "Nome": "INEPAR S.A. INDUSTRIA E CONSTRUCOES",
+        "Setor": "Bens industriais",
+        "Sub Setor": "M\u00e1quinas e equipamentos",
+        "Segmento": "M\u00e1q. e equip. industriais"
+    },
+    "INEP4": {
+        "Nome de preg\u00e3o": "INEPAR",
+        "CNPJ": "76.627.504/0001-06",
+        "Nome": "INEPAR S.A. INDUSTRIA E CONSTRUCOES",
+        "Setor": "Bens industriais",
+        "Sub Setor": "M\u00e1quinas e equipamentos",
+        "Segmento": "M\u00e1q. e equip. industriais"
+    },
+    "MEAL3": {
+        "Nome de preg\u00e3o": "IMC S/A",
+        "CNPJ": "17.314.329/0001-20",
+        "Nome": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Hotelaria e restaurante",
+        "Segmento": "Restaurantes e similares"
+    },
+    "MYPK3": {
+        "Nome de preg\u00e3o": "IOCHP-MAXION",
+        "CNPJ": "61.156.113/0001-75",
+        "Nome": "IOCHPE MAXION S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Autom\u00f3veis e motocicletas",
+        "Segmento": "Autom\u00f3veis e motocicletas"
+    },
+    "RANI3": {
+        "Nome de preg\u00e3o": "IRANI",
+        "CNPJ": "92.791.243/0001-03",
+        "Nome": "IRANI PAPEL E EMBALAGEM S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Madeira e papel",
+        "Segmento": "Papel e celul\u00f3se"
+    },
+    "IRBR3": {
+        "Nome de preg\u00e3o": "IRBBRASIL RE",
+        "CNPJ": "33.376.989/0001-91",
+        "Nome": "IRB \u2013 BRASIL RESSEGUROS S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Previd\u00eancia e seguros",
+        "Segmento": "Seguradoras"
+    },
+    "ITUB3": {
+        "Nome de preg\u00e3o": "ITAUUNIBANCO",
+        "CNPJ": "60.872.504/0001-23",
+        "Nome": "ITAU UNIBANCO HOLDING S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "ITUB4": {
+        "Nome de preg\u00e3o": "ITAUUNIBANCO",
+        "CNPJ": "60.872.504/0001-23",
+        "Nome": "ITAU UNIBANCO HOLDING S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "ITSA3": {
+        "Nome de preg\u00e3o": "ITAUSA",
+        "CNPJ": "61.532.644/0001-15",
+        "Nome": "ITAUSA S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "ITSA4": {
+        "Nome de preg\u00e3o": "ITAUSA",
+        "CNPJ": "61.532.644/0001-15",
+        "Nome": "ITAUSA S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "JBSS3": {
+        "Nome de preg\u00e3o": "JBS",
+        "CNPJ": "02.916.265/0001-60",
+        "Nome": "JBS S.A.",
+        "Setor": "Consumo n\u00e3o c\u00edclico",
+        "Sub Setor": "Alimentos processados",
+        "Segmento": "Carnes e derivados"
+    },
+    "JHSF3": {
+        "Nome de preg\u00e3o": "JHSF PART",
+        "CNPJ": "08.294.224/0001-65",
+        "Nome": "JHSF PARTICIPACOES S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Constru\u00e7\u00e3o civil",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "JFEN3": {
+        "Nome de preg\u00e3o": "JOAO FORTES",
+        "CNPJ": "33.035.536/0001-00",
+        "Nome": "JOAO FORTES ENGENHARIA S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Constru\u00e7\u00e3o civil",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "JOPA4": {
+        "Nome de preg\u00e3o": "JOSAPAR",
+        "CNPJ": "87.456.562/0001-22",
+        "Nome": "JOSAPAR-JOAQUIM OLIVEIRA S.A. \u2013 PARTICIP",
+        "Setor": "Consumo n\u00e3o c\u00edclico",
+        "Sub Setor": "Alimentos processados",
+        "Segmento": "Alimentos diversos"
+    },
+    "JOPA3": {
+        "Nome de preg\u00e3o": "JOSAPAR",
+        "CNPJ": "87.456.562/0001-22",
+        "Nome": "JOSAPAR-JOAQUIM OLIVEIRA S.A. \u2013 PARTICIP",
+        "Setor": "Consumo n\u00e3o c\u00edclico",
+        "Sub Setor": "Alimentos processados",
+        "Segmento": "Alimentos diversos"
+    },
+    "JSLG3": {
+        "Nome de preg\u00e3o": "JSL",
+        "CNPJ": "52.548.435/0001-79",
+        "Nome": "JSL S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Transporte",
+        "Segmento": "Transporte rodovi\u00e1rio"
+    },
+    "CTKA4": {
+        "Nome de preg\u00e3o": "KARSTEN",
+        "CNPJ": "82.640.558/0001-04",
+        "Nome": "KARSTEN S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Fios e tecidos"
+    },
+    "CTKA3": {
+        "Nome de preg\u00e3o": "KARSTEN",
+        "CNPJ": "82.640.558/0001-04",
+        "Nome": "KARSTEN S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Fios e tecidos"
+    },
+    "KEPL3": {
+        "Nome de preg\u00e3o": "KEPLER WEBER",
+        "CNPJ": "91.983.056/0001-69",
+        "Nome": "KEPLER WEBER S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "M\u00e1quinas e equipamentos",
+        "Segmento": "M\u00e1q. e equip. industriais"
+    },
+    "KLBN3": {
+        "Nome de preg\u00e3o": "KLABIN S/A",
+        "CNPJ": "89.637.490/0001-45",
+        "Nome": "KLABIN S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Madeira e papel",
+        "Segmento": "Papel e celul\u00f3se"
+    },
+    "KLBN4": {
+        "Nome de preg\u00e3o": "KLABIN S/A",
+        "CNPJ": "89.637.490/0001-45",
+        "Nome": "KLABIN S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Madeira e papel",
+        "Segmento": "Papel e celul\u00f3se"
+    },
+    "KLBN11": {
+        "Nome de preg\u00e3o": "KLABIN S/A",
+        "CNPJ": "89.637.490/0001-45",
+        "Nome": "KLABIN S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Madeira e papel",
+        "Segmento": "Papel e celul\u00f3se"
+    },
+    "LIGT3": {
+        "Nome de preg\u00e3o": "LIGHT S/A",
+        "CNPJ": "03.378.521/0001-75",
+        "Nome": "LIGHT S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "RENT3": {
+        "Nome de preg\u00e3o": "LOCALIZA",
+        "CNPJ": "16.670.085/0001-55",
+        "Nome": "LOCALIZA RENT A CAR S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Diversos",
+        "Segmento": "Aluguel de carros"
+    },
+    "LWSA3": {
+        "Nome de preg\u00e3o": "LOCAWEB",
+        "CNPJ": "02.351.877/0001-52",
+        "Nome": "LOCAWEB SERVI\u00c7OS DE INTERNET S.A.",
+        "Setor": "Tecnologia da Informa\u00e7\u00e3o",
+        "Sub Setor": "Programas e Servi\u00e7os",
+        "Segmento": "Programas e Servi\u00e7os"
+    },
+    "LOGG3": {
+        "Nome de preg\u00e3o": "LOG COM PROP",
+        "CNPJ": "09.041.168/0001-10",
+        "Nome": "LOG COMMERCIAL PROPERTIES",
+        "Setor": "Financeiro",
+        "Sub Setor": "Explora\u00e7\u00e3o de im\u00f3veis",
+        "Segmento": "Explora\u00e7\u00e3o de im\u00f3veis"
+    },
+    "LOGN3": {
+        "Nome de preg\u00e3o": "LOG-IN",
+        "CNPJ": "42.278.291/0001-24",
+        "Nome": "LOG-IN LOGISTICA INTERMODAL S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Transporte",
+        "Segmento": "Transporte hidrovi\u00e1rio"
+    },
+    "LREN3": {
+        "Nome de preg\u00e3o": "LOJAS RENNER",
+        "CNPJ": "92.754.738/0001-62",
+        "Nome": "LOJAS RENNER S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Com\u00e9rcio",
+        "Segmento": "Tecidos, vestu\u00e1rio e cal\u00e7ados "
+    },
+    "LPSB3": {
+        "Nome de preg\u00e3o": "LOPES BRASIL",
+        "CNPJ": "08.078.847/0001-09",
+        "Nome": "LPS BRASIL \u2013 CONSULTORIA DE IMOVEIS S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Explora\u00e7\u00e3o de im\u00f3veis",
+        "Segmento": "Intermedia\u00e7\u00e3o imobili\u00e1ria"
+    },
+    "LUPA3": {
+        "Nome de preg\u00e3o": "LUPATECH",
+        "CNPJ": "89.463.822/0001-12",
+        "Nome": "LUPATECH S.A.",
+        "Setor": "Petr\u00f3leo, g\u00e1s e biocombust\u00edveis",
+        "Sub Setor": "Petr\u00f3leo, g\u00e1s e biocombust\u00edveis",
+        "Segmento": "Equipamentos e servi\u00e7os"
+    },
+    "MDIA3": {
+        "Nome de preg\u00e3o": "M.DIASBRANCO",
+        "CNPJ": "07.206.816/0001-15",
+        "Nome": "M.DIAS BRANCO S.A. IND COM DE ALIMENTOS",
+        "Setor": "Consumo n\u00e3o c\u00edclico",
+        "Sub Setor": "Alimentos processados",
+        "Segmento": "Alimentos diversos"
+    },
+    "MGLU3": {
+        "Nome de preg\u00e3o": "MAGAZ LUIZA",
+        "CNPJ": "47.960.950/0001-21",
+        "Nome": "MAGAZINE LUIZA S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Com\u00e9rcio",
+        "Segmento": "Eletrodom\u00e9sticos"
+    },
+    "LEVE3": {
+        "Nome de preg\u00e3o": "METAL LEVE",
+        "CNPJ": "60.476.884/0001-87",
+        "Nome": "MAHLE-METAL LEVE S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Autom\u00f3veis e motocicletas",
+        "Segmento": "Autom\u00f3veis e motocicletas"
+    },
+    "MGEL4": {
+        "Nome de preg\u00e3o": "MANGELS INDL",
+        "CNPJ": "61.065.298/0001-02",
+        "Nome": "MANGELS INDUSTRIAL S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Minera\u00e7\u00e3o",
+        "Segmento": "Artefatos de ferro e a\u00e7o"
+    },
+    "ESTR4": {
+        "Nome de preg\u00e3o": "ESTRELA",
+        "CNPJ": "61.082.004/0001-50",
+        "Nome": "MANUFATURA DE BRINQUEDOS ESTRELA S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Viagens e lazer",
+        "Segmento": "Brinquedos e jogos"
+    },
+    "POMO3": {
+        "Nome de preg\u00e3o": "MARCOPOLO",
+        "CNPJ": "88.611.835/0001-29",
+        "Nome": "MARCOPOLO S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Material de transporte",
+        "Segmento": "Material rodovi\u00e1rio"
+    },
+    "POMO4": {
+        "Nome de preg\u00e3o": "MARCOPOLO",
+        "CNPJ": "88.611.835/0001-29",
+        "Nome": "MARCOPOLO S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Material de transporte",
+        "Segmento": "Material rodovi\u00e1rio"
+    },
+    "MRFG3": {
+        "Nome de preg\u00e3o": "MARFRIG",
+        "CNPJ": "03.853.896/0001-40",
+        "Nome": "MARFRIG GLOBAL FOODS S.A.",
+        "Setor": "Consumo n\u00e3o c\u00edclico",
+        "Sub Setor": "Alimentos processados",
+        "Segmento": "Carnes e derivados"
+    },
+    "AMAR3": {
+        "Nome de preg\u00e3o": "LOJAS MARISA",
+        "CNPJ": "61.189.288/0001-89",
+        "Nome": "MARISA LOJAS S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Com\u00e9rcio",
+        "Segmento": "Tecidos, vestu\u00e1rio e cal\u00e7ados "
+    },
+    "MERC4": {
+        "Nome de preg\u00e3o": "MERC FINANC",
+        "CNPJ": "33.040.601/0001-87",
+        "Nome": "MERCANTIL BRASIL FINANC S.A. C.F.I.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Soc. cr\u00e9dito e financiamento"
+    },
+    "MERC3": {
+        "Nome de preg\u00e3o": "MERC FINANC",
+        "CNPJ": "33.040.601/0001-87",
+        "Nome": "MERCANTIL BRASIL FINANC S.A. C.F.I.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Soc. cr\u00e9dito e financiamento"
+    },
+    "FRIO3": {
+        "Nome de preg\u00e3o": "METALFRIO",
+        "CNPJ": "04.821.041/0001-08",
+        "Nome": "METALFRIO SOLUTIONS S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "M\u00e1quinas e equipamentos",
+        "Segmento": "M\u00e1q. e equip. industriais"
+    },
+    "GOAU3": {
+        "Nome de preg\u00e3o": "GERDAU MET",
+        "CNPJ": "92.690.783/0001-09",
+        "Nome": "METALURGICA GERDAU S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Minera\u00e7\u00e3o",
+        "Segmento": "Siderurgia"
+    },
+    "GOAU4": {
+        "Nome de preg\u00e3o": "GERDAU MET",
+        "CNPJ": "92.690.783/0001-09",
+        "Nome": "METALURGICA GERDAU S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Minera\u00e7\u00e3o",
+        "Segmento": "Siderurgia"
+    },
+    "RSUL4": {
+        "Nome de preg\u00e3o": "RIOSULENSE",
+        "CNPJ": "85.778.074/0001-06",
+        "Nome": "METALURGICA RIOSULENSE S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Material de transporte",
+        "Segmento": "Material rodovi\u00e1rio"
+    },
+    "MTSA4": {
+        "Nome de preg\u00e3o": "METISA",
+        "CNPJ": "86.375.425/0001-09",
+        "Nome": "METISA METALURGICA TIMBOENSE S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "M\u00e1quinas e equipamentos",
+        "Segmento": "M\u00e1q. e equip. industriais"
+    },
+    "MILS3": {
+        "Nome de preg\u00e3o": "MILLS",
+        "CNPJ": "27.093.558/0001-15",
+        "Nome": "MILLS ESTRUTURAS E SERVI\u00c7OS DE ENGENHARIA S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Constru\u00e7\u00e3o e engenharia",
+        "Segmento": "Servi\u00e7os diversos"
+    },
+    "BEEF3": {
+        "Nome de preg\u00e3o": "MINERVA",
+        "CNPJ": "67.620.377/0001-14",
+        "Nome": "MINERVA S.A.",
+        "Setor": "Consumo n\u00e3o c\u00edclico",
+        "Sub Setor": "Alimentos processados",
+        "Segmento": "Carnes e derivados"
+    },
+    "MNPR3": {
+        "Nome de preg\u00e3o": "MINUPAR",
+        "CNPJ": "90.076.886/0001-40",
+        "Nome": "MINUPAR PARTICIPACOES S.A.",
+        "Setor": "Consumo n\u00e3o c\u00edclico",
+        "Sub Setor": "Alimentos processados",
+        "Segmento": "Carnes e derivados"
+    },
+    "MTRE3": {
+        "Nome de preg\u00e3o": "MITRE REALTY",
+        "CNPJ": "07.882.930/0001-65",
+        "Nome": "MITRE REALTY EMPREENDIMENTOS E PARTICIPA\u00c7\u00d5ES S.A.",
+        "Setor": "Consumo C\u00edclico",
+        "Sub Setor": "Constru\u00e7\u00e3o Civil",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "MOAR3": {
+        "Nome de preg\u00e3o": "MONT ARANHA",
+        "CNPJ": "33.102.476/0001-92",
+        "Nome": "MONTEIRO ARANHA S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Holdings diversificadas",
+        "Segmento": "Holdings diversificadas"
+    },
+    "MDNE3": {
+        "Nome de preg\u00e3o": "MOURA DUBEUX",
+        "CNPJ": "12.049.631/0001-84",
+        "Nome": "MOURA DUBEUX ENGENHARIA S/A",
+        "Setor": "Consumo C\u00edclico",
+        "Sub Setor": "Constru\u00e7\u00e3o Civil",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "MOVI3": {
+        "Nome de preg\u00e3o": "MOVIDA",
+        "CNPJ": "21.314.559/0001-66",
+        "Nome": "MOVIDA PARTICIPACOES SA",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Diversos",
+        "Segmento": "Aluguel de carros"
+    },
+    "MRVE3": {
+        "Nome de preg\u00e3o": "MRV",
+        "CNPJ": "08.343.492/0001-20",
+        "Nome": "MRV ENGENHARIA E PARTICIPACOES S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Constru\u00e7\u00e3o civil",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "MULT3": {
+        "Nome de preg\u00e3o": "MULTIPLAN",
+        "CNPJ": "07.816.890/0001-53",
+        "Nome": "MULTIPLAN \u2013 EMPREEND IMOBILIARIOS S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Explora\u00e7\u00e3o de im\u00f3veis",
+        "Segmento": "Explora\u00e7\u00e3o de im\u00f3veis"
+    },
+    "MNDL3": {
+        "Nome de preg\u00e3o": "MUNDIAL",
+        "CNPJ": "88.610.191/0001-54",
+        "Nome": "MUNDIAL S.A. \u2013 PRODUTOS DE CONSUMO",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Acess\u00f3rios"
+    },
+    "NTCO3": {
+        "Nome de preg\u00e3o": "GRUPO NATURA",
+        "CNPJ": "32.785.497/0001-97",
+        "Nome": "NATURA &CO HOLDING S.A.",
+        "Setor": "Consumo n\u00e3o C\u00edclico",
+        "Sub Setor": "Produtos de Uso Pessoal e de Limpeza",
+        "Segmento": "Produtos de Uso Pessoal"
+    },
+    "NEOE3": {
+        "Nome de preg\u00e3o": "NEOENERGIA",
+        "CNPJ": "01.083.200/0001-18",
+        "Nome": "NEOENERGIA S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "NORD3": {
+        "Nome de preg\u00e3o": "NORDON MET",
+        "CNPJ": "60.884.319/0001-59",
+        "Nome": "NORDON INDUSTRIAS METALURGICAS S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "M\u00e1quinas e equipamentos",
+        "Segmento": "M\u00e1q. e equip. industriais"
+    },
+    "NUTR3": {
+        "Nome de preg\u00e3o": "NUTRIPLANT",
+        "CNPJ": "51.128.999/0001-90",
+        "Nome": "NUTRIPLANT INDUSTRIA E COMERCIO S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Qu\u00edmicos",
+        "Segmento": "Fertilizantes e defensivos"
+    },
+    "ODPV3": {
+        "Nome de preg\u00e3o": "ODONTOPREV",
+        "CNPJ": "58.119.199/0001-51",
+        "Nome": "ODONTOPREV S.A.",
+        "Setor": "Sa\u00fade",
+        "Sub Setor": "Servi\u00e7os m\u00e9dico - hospitalares, an\u00e1lises e diagn\u00f3sticos",
+        "Segmento": "Servi\u00e7os m\u00e9dico - hospitalares, an\u00e1lises e diagn\u00f3sticos "
+    },
+    "OIBR3": {
+        "Nome de preg\u00e3o": "OI",
+        "CNPJ": "76.535.764/0001-43",
+        "Nome": "OI S.A.",
+        "Setor": "Telecomunica\u00e7\u00f5es",
+        "Sub Setor": "Telecomunica\u00e7\u00f5es",
+        "Segmento": "Telecomunica\u00e7\u00f5es"
+    },
+    "OIBR4": {
+        "Nome de preg\u00e3o": "OI",
+        "CNPJ": "76.535.764/0001-43",
+        "Nome": "OI S.A.",
+        "Setor": "Telecomunica\u00e7\u00f5es",
+        "Sub Setor": "Telecomunica\u00e7\u00f5es",
+        "Segmento": "Telecomunica\u00e7\u00f5es"
+    },
+    "OSXB3": {
+        "Nome de preg\u00e3o": "OSX BRASIL",
+        "CNPJ": "09.112.685/0001-32",
+        "Nome": "OSX BRASIL S.A.",
+        "Setor": "Petr\u00f3leo, g\u00e1s e biocombust\u00edveis",
+        "Sub Setor": "Petr\u00f3leo, g\u00e1s e biocombust\u00edveis",
+        "Segmento": "Equipamentos e servi\u00e7os"
+    },
+    "OFSA3": {
+        "Nome de preg\u00e3o": "OUROFINO S/A",
+        "CNPJ": "20.258.278/0001-70",
+        "Nome": "OURO FINO SAUDE ANIMAL PARTICIPACOES S.A.",
+        "Setor": "Sa\u00fade",
+        "Sub Setor": "Medicamentos e outros produtos",
+        "Segmento": "Medicamentos e outros produtos"
+    },
+    "PATI4": {
+        "Nome de preg\u00e3o": "PANATLANTICA",
+        "CNPJ": "92.693.019/0001-89",
+        "Nome": "PANATLANTICA S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Minera\u00e7\u00e3o",
+        "Segmento": "Artefatos de ferro e a\u00e7o"
+    },
+    "PATI3": {
+        "Nome de preg\u00e3o": "PANATLANTICA",
+        "CNPJ": "92.693.019/0001-89",
+        "Nome": "PANATLANTICA S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Minera\u00e7\u00e3o",
+        "Segmento": "Artefatos de ferro e a\u00e7o"
+    },
+    "PMAM3": {
+        "Nome de preg\u00e3o": "PARANAPANEMA",
+        "CNPJ": "60.398.369/0004-79",
+        "Nome": "PARANAPANEMA S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Minera\u00e7\u00e3o",
+        "Segmento": "Artefatos de ferro e a\u00e7o"
+    },
+    "PTBL3": {
+        "Nome de preg\u00e3o": "PORTOBELLO",
+        "CNPJ": "83.475.913/0001-91",
+        "Nome": "PBG S/A",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Constru\u00e7\u00e3o e engenharia",
+        "Segmento": "Produtos para constru\u00e7\u00e3o"
+    },
+    "PDGR3": {
+        "Nome de preg\u00e3o": "PDG REALT",
+        "CNPJ": "02.950.811/0001-89",
+        "Nome": "PDG REALTY S.A. EMPREEND E PARTICIPACOES",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Constru\u00e7\u00e3o civil",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "PRIO3": {
+        "Nome de preg\u00e3o": "PETRORIO",
+        "CNPJ": "10.629.105/0001-68",
+        "Nome": "PETRO RIO S.A.",
+        "Setor": "Petr\u00f3leo, g\u00e1s e biocombust\u00edveis",
+        "Sub Setor": "Petr\u00f3leo, g\u00e1s e biocombust\u00edveis",
+        "Segmento": "Explora\u00e7\u00e3o, refino e distribui\u00e7\u00e3o"
+    },
+    "PETR3": {
+        "Nome de preg\u00e3o": "PETROBRAS",
+        "CNPJ": "33.000.167/0001-01",
+        "Nome": "PETROLEO BRASILEIRO S.A. PETROBRAS",
+        "Setor": "Petr\u00f3leo, g\u00e1s e biocombust\u00edveis",
+        "Sub Setor": "Petr\u00f3leo, g\u00e1s e biocombust\u00edveis",
+        "Segmento": "Explora\u00e7\u00e3o, refino e distribui\u00e7\u00e3o"
+    },
+    "PETR4": {
+        "Nome de preg\u00e3o": "PETROBRAS",
+        "CNPJ": "33.000.167/0001-01",
+        "Nome": "PETROLEO BRASILEIRO S.A. PETROBRAS",
+        "Setor": "Petr\u00f3leo, g\u00e1s e biocombust\u00edveis",
+        "Sub Setor": "Petr\u00f3leo, g\u00e1s e biocombust\u00edveis",
+        "Segmento": "Explora\u00e7\u00e3o, refino e distribui\u00e7\u00e3o"
+    },
+    "PTNT4": {
+        "Nome de preg\u00e3o": "PETTENATI",
+        "CNPJ": "88.613.658/0001-10",
+        "Nome": "PETTENATI S.A. INDUSTRIA TEXTIL",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Fios e tecidos"
+    },
+    "PTNT3": {
+        "Nome de preg\u00e3o": "PETTENATI",
+        "CNPJ": "88.613.658/0001-10",
+        "Nome": "PETTENATI S.A. INDUSTRIA TEXTIL",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Fios e tecidos"
+    },
+    "PLAS3": {
+        "Nome de preg\u00e3o": "PLASCAR PART",
+        "CNPJ": "51.928.174/0001-50",
+        "Nome": "PLASCAR PARTICIPACOES INDUSTRIAIS S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Autom\u00f3veis e motocicletas",
+        "Segmento": "Autom\u00f3veis e motocicletas"
+    },
+    "FRTA3": {
+        "Nome de preg\u00e3o": "POMIFRUTAS",
+        "CNPJ": "86.550.951/0001-50",
+        "Nome": "POMIFRUTAS S/A",
+        "Setor": "Consumo n\u00e3o c\u00edclico",
+        "Sub Setor": "Agropecu\u00e1ria",
+        "Segmento": "Agricultura"
+    },
+    "PSSA3": {
+        "Nome de preg\u00e3o": "PORTO SEGURO",
+        "CNPJ": "02.149.205/0001-69",
+        "Nome": "PORTO SEGURO S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Previd\u00eancia e seguros",
+        "Segmento": "Seguradoras"
+    },
+    "POSI3": {
+        "Nome de preg\u00e3o": "POSITIVO TEC",
+        "CNPJ": "81.243.735/0001-48",
+        "Nome": "POSITIVO TECNOLOGIA S.A.",
+        "Setor": "Tecnologia da informa\u00e7\u00e3o",
+        "Sub Setor": "Computadores e equipamentos",
+        "Segmento": "Computadores e equipamentos"
+    },
+    "PFRM3": {
+        "Nome de preg\u00e3o": "PROFARMA",
+        "CNPJ": "45.453.214/0001-51",
+        "Nome": "PROFARMA DISTRIB PROD FARMACEUTICOS S.A.",
+        "Setor": "Sa\u00fade",
+        "Sub Setor": "Com\u00e9rcio e distribui\u00e7\u00e3o",
+        "Segmento": "Medicamentos e outros produtos"
+    },
+    "QUAL3": {
+        "Nome de preg\u00e3o": "QUALICORP",
+        "CNPJ": "11.992.680/0001-93",
+        "Nome": "QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A.",
+        "Setor": "Sa\u00fade",
+        "Sub Setor": "Servi\u00e7os m\u00e9dico - hospitalares, an\u00e1lises e diagn\u00f3sticos",
+        "Segmento": "Servi\u00e7os m\u00e9dico - hospitalares, an\u00e1lises e diagn\u00f3sticos "
+    },
+    "RADL3": {
+        "Nome de preg\u00e3o": "RAIADROGASIL",
+        "CNPJ": "61.585.865/0001-51",
+        "Nome": "RAIA DROGASIL S.A.",
+        "Setor": "Sa\u00fade",
+        "Sub Setor": "Com\u00e9rcio e distribui\u00e7\u00e3o",
+        "Segmento": "Medicamentos e outros produtos"
+    },
+    "RAPT3": {
+        "Nome de preg\u00e3o": "RANDON PART",
+        "CNPJ": "89.086.144/0001-16",
+        "Nome": "RANDON S.A. IMPLEMENTOS E PARTICIPACOES",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Material de transporte",
+        "Segmento": "Material rodovi\u00e1rio"
+    },
+    "RAPT4": {
+        "Nome de preg\u00e3o": "RANDON PART",
+        "CNPJ": "89.086.144/0001-16",
+        "Nome": "RANDON S.A. IMPLEMENTOS E PARTICIPACOES",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Material de transporte",
+        "Segmento": "Material rodovi\u00e1rio"
+    },
+    "RCSL4": {
+        "Nome de preg\u00e3o": "RECRUSUL",
+        "CNPJ": "91.333.666/0001-17",
+        "Nome": "RECRUSUL S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Material de transporte",
+        "Segmento": "Material rodovi\u00e1rio"
+    },
+    "REDE3": {
+        "Nome de preg\u00e3o": "REDE ENERGIA",
+        "CNPJ": "61.584.140/0001-49",
+        "Nome": "REDE ENERGIA PARTICIPA\u00c7\u00d5ES S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "RPMG3": {
+        "Nome de preg\u00e3o": "PET MANGUINH",
+        "CNPJ": "33.412.081/0001-96",
+        "Nome": "REFINARIA DE PETROLEOS MANGUINHOS S.A.",
+        "Setor": "Petr\u00f3leo, g\u00e1s e biocombust\u00edveis",
+        "Sub Setor": "Petr\u00f3leo, g\u00e1s e biocombust\u00edveis",
+        "Segmento": "Explora\u00e7\u00e3o, refino e distribui\u00e7\u00e3o"
+    },
+    "RNEW3": {
+        "Nome de preg\u00e3o": "RENOVA",
+        "CNPJ": "08.534.605/0001-74",
+        "Nome": "RENOVA ENERGIA S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "RNEW4": {
+        "Nome de preg\u00e3o": "RENOVA",
+        "CNPJ": "08.534.605/0001-74",
+        "Nome": "RENOVA ENERGIA S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "RNEW11": {
+        "Nome de preg\u00e3o": "RENOVA",
+        "CNPJ": "08.534.605/0001-74",
+        "Nome": "RENOVA ENERGIA S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "GEPA3": {
+        "Nome de preg\u00e3o": "GER PARANAP",
+        "CNPJ": "02.998.301/0001-81",
+        "Nome": "RIO PARANAPANEMA ENERGIA S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "GEPA4": {
+        "Nome de preg\u00e3o": "GER PARANAP",
+        "CNPJ": "02.998.301/0001-81",
+        "Nome": "RIO PARANAPANEMA ENERGIA S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "RDNI3": {
+        "Nome de preg\u00e3o": "RNI",
+        "CNPJ": "67.010.660/0001-24",
+        "Nome": "RNI NEG\u00d3CIOS IMOBILI\u00c1RIOS S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Constru\u00e7\u00e3o civil",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "RSID3": {
+        "Nome de preg\u00e3o": "ROSSI RESID",
+        "CNPJ": "61.065.751/0001-80",
+        "Nome": "ROSSI RESIDENCIAL S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Constru\u00e7\u00e3o civil",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "RAIL3": {
+        "Nome de preg\u00e3o": "RUMO S.A.",
+        "CNPJ": "02.387.241/0001-60",
+        "Nome": "RUMO S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Transporte",
+        "Segmento": "Transporte ferrovi\u00e1rio"
+    },
+    "SNSY5": {
+        "Nome de preg\u00e3o": "SANSUY",
+        "CNPJ": "14.807.945/0001-24",
+        "Nome": "SANSUY S.A. INDUSTRIA DE PLASTICOS",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Madeira e papel",
+        "Segmento": "Materiais diversos"
+    },
+    "STBP3": {
+        "Nome de preg\u00e3o": "SANTOS BRP",
+        "CNPJ": "02.762.121/0001-04",
+        "Nome": "SANTOS BRASIL PARTICIPACOES S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Transporte",
+        "Segmento": "Servi\u00e7os de apoio e armazenagem"
+    },
+    "SCAR3": {
+        "Nome de preg\u00e3o": "SAO CARLOS",
+        "CNPJ": "29.780.061/0001-09",
+        "Nome": "SAO CARLOS EMPREEND E PARTICIPACOES S.A.",
+        "Setor": "Financeiro",
+        "Sub Setor": "Explora\u00e7\u00e3o de im\u00f3veis",
+        "Segmento": "Explora\u00e7\u00e3o de im\u00f3veis"
+    },
+    "SMTO3": {
+        "Nome de preg\u00e3o": "SAO MARTINHO",
+        "CNPJ": "51.466.860/0001-56",
+        "Nome": "SAO MARTINHO S.A.",
+        "Setor": "Consumo n\u00e3o c\u00edclico",
+        "Sub Setor": "Alimentos processados",
+        "Segmento": "A\u00e7ucar e \u00e1lcool"
+    },
+    "AHEB3": {
+        "Nome de preg\u00e3o": "SPTURIS",
+        "CNPJ": "62.002.886/0001-60",
+        "Nome": "SAO PAULO TURISMO S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Viagens e lazer",
+        "Segmento": "Produ\u00e7\u00e3o de eventos e shows"
+    },
+    "AHEB5": {
+        "Nome de preg\u00e3o": "SPTURIS",
+        "CNPJ": "62.002.886/0001-60",
+        "Nome": "SAO PAULO TURISMO S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Viagens e lazer",
+        "Segmento": "Produ\u00e7\u00e3o de eventos e shows"
+    },
+    "SLED3": {
+        "Nome de preg\u00e3o": "SARAIVA LIVR",
+        "CNPJ": "60.500.139/0001-26",
+        "Nome": "SARAIVA LIVREIROS S.A. \u2013 EM RECUPERA\u00c7\u00c3O JUDICIAL",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Com\u00e9rcio",
+        "Segmento": "Produtos diversos"
+    },
+    "SLED4": {
+        "Nome de preg\u00e3o": "SARAIVA LIVR",
+        "CNPJ": "60.500.139/0001-26",
+        "Nome": "SARAIVA LIVREIROS S.A. \u2013 EM RECUPERA\u00c7\u00c3O JUDICIAL",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Com\u00e9rcio",
+        "Segmento": "Produtos diversos"
+    },
+    "SHUL4": {
+        "Nome de preg\u00e3o": "SCHULZ",
+        "CNPJ": "84.693.183/0001-68",
+        "Nome": "SCHULZ S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "M\u00e1quinas e equipamentos",
+        "Segmento": "Motores compressores e outros"
+    },
+    "SEER3": {
+        "Nome de preg\u00e3o": "SER EDUCA",
+        "CNPJ": "04.986.320/0001-13",
+        "Nome": "SER EDUCACIONAL S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Diversos",
+        "Segmento": "Servi\u00e7os educacionais"
+    },
+    "SQIA3": {
+        "Nome de preg\u00e3o": "SINQIA",
+        "CNPJ": "04.065.791/0001-99",
+        "Nome": "SINQIA S.A.",
+        "Setor": "Tecnologia da informa\u00e7\u00e3o",
+        "Sub Setor": "Programas e servi\u00e7os",
+        "Segmento": "Programas e servi\u00e7os"
+    },
+    "SLCE3": {
+        "Nome de preg\u00e3o": "SLC AGRICOLA",
+        "CNPJ": "89.096.457/0001-55",
+        "Nome": "SLC AGRICOLA S.A.",
+        "Setor": "Consumo n\u00e3o c\u00edclico",
+        "Sub Setor": "Agropecu\u00e1ria",
+        "Segmento": "Agricultura"
+    },
+    "SOND6": {
+        "Nome de preg\u00e3o": "SONDOTECNICA",
+        "CNPJ": "33.386.210/0001-19",
+        "Nome": "SONDOTECNICA ENGENHARIA SOLOS S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Constru\u00e7\u00e3o e engenharia",
+        "Segmento": "Engenharia consultiva"
+    },
+    "SOND5": {
+        "Nome de preg\u00e3o": "SONDOTECNICA",
+        "CNPJ": "33.386.210/0001-19",
+        "Nome": "SONDOTECNICA ENGENHARIA SOLOS S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Constru\u00e7\u00e3o e engenharia",
+        "Segmento": "Engenharia consultiva"
+    },
+    "SGPS3": {
+        "Nome de preg\u00e3o": "SPRINGS",
+        "CNPJ": "07.718.269/0001-57",
+        "Nome": "SPRINGS GLOBAL PARTICIPACOES S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Fios e tecidos"
+    },
+    "SUZB3": {
+        "Nome de preg\u00e3o": "SUZANO S.A.",
+        "CNPJ": "16.404.287/0001-55",
+        "Nome": "SUZANO S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Madeira e papel",
+        "Segmento": "Papel e celul\u00f3se"
+    },
+    "SHOW3": {
+        "Nome de preg\u00e3o": "TIME FOR FUN",
+        "CNPJ": "02.860.694/0001-62",
+        "Nome": "T4F ENTRETENIMENTO S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Viagens e lazer",
+        "Segmento": "Produ\u00e7\u00e3o de eventos e shows"
+    },
+    "TECN3": {
+        "Nome de preg\u00e3o": "TECHNOS",
+        "CNPJ": "09.295.063/0001-97",
+        "Nome": "TECHNOS S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Acess\u00f3rios"
+    },
+    "TCSA3": {
+        "Nome de preg\u00e3o": "TECNISA",
+        "CNPJ": "08.065.557/0001-12",
+        "Nome": "TECNISA S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Constru\u00e7\u00e3o civil",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "TGMA3": {
+        "Nome de preg\u00e3o": "TEGMA",
+        "CNPJ": "02.351.144/0001-18",
+        "Nome": "TEGMA GESTAO LOGISTICA S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Transporte",
+        "Segmento": "Transporte rodovi\u00e1rio"
+    },
+    "TEKA4": {
+        "Nome de preg\u00e3o": "TEKA",
+        "CNPJ": "82.636.986/0001-55",
+        "Nome": "TEKA-TECELAGEM KUEHNRICH S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Fios e tecidos"
+    },
+    "TEKA3": {
+        "Nome de preg\u00e3o": "TEKA",
+        "CNPJ": "82.636.986/0001-55",
+        "Nome": "TEKA-TECELAGEM KUEHNRICH S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Fios e tecidos"
+    },
+    "TKNO4": {
+        "Nome de preg\u00e3o": "TEKNO",
+        "CNPJ": "33.467.572/0001-34",
+        "Nome": "TEKNO S.A. \u2013 INDUSTRIA E COMERCIO",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Minera\u00e7\u00e3o",
+        "Segmento": "Artefatos de ferro e a\u00e7o"
+    },
+    "TELB3": {
+        "Nome de preg\u00e3o": "TELEBRAS",
+        "CNPJ": "00.336.701/0001-04",
+        "Nome": "TELEC BRASILEIRAS S.A. TELEBRAS",
+        "Setor": "Telecomunica\u00e7\u00f5es",
+        "Sub Setor": "Telecomunica\u00e7\u00f5es",
+        "Segmento": "Telecomunica\u00e7\u00f5es"
+    },
+    "TELB4": {
+        "Nome de preg\u00e3o": "TELEBRAS",
+        "CNPJ": "00.336.701/0001-04",
+        "Nome": "TELEC BRASILEIRAS S.A. TELEBRAS",
+        "Setor": "Telecomunica\u00e7\u00f5es",
+        "Sub Setor": "Telecomunica\u00e7\u00f5es",
+        "Segmento": "Telecomunica\u00e7\u00f5es"
+    },
+    "VIVT3": {
+        "Nome de preg\u00e3o": "TELEF BRASIL",
+        "CNPJ": "02.558.157/0001-62",
+        "Nome": "TELEF\u00d4NICA BRASIL S.A",
+        "Setor": "Telecomunica\u00e7\u00f5es",
+        "Sub Setor": "Telecomunica\u00e7\u00f5es",
+        "Segmento": "Telecomunica\u00e7\u00f5es"
+    },
+    "TXRX4": {
+        "Nome de preg\u00e3o": "TEX RENAUX",
+        "CNPJ": "82.982.075/0001-80",
+        "Nome": "TEXTIL RENAUXVIEW S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Fios e tecidos"
+    },
+    "TXRX3": {
+        "Nome de preg\u00e3o": "TEX RENAUX",
+        "CNPJ": "82.982.075/0001-80",
+        "Nome": "TEXTIL RENAUXVIEW S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Fios e tecidos"
+    },
+    "TOTS3": {
+        "Nome de preg\u00e3o": "TOTVS",
+        "CNPJ": "53.113.791/0001-22",
+        "Nome": "TOTVS S.A.",
+        "Setor": "Tecnologia da informa\u00e7\u00e3o",
+        "Sub Setor": "Programas e servi\u00e7os",
+        "Segmento": "Programas e servi\u00e7os"
+    },
+    "TPIS3": {
+        "Nome de preg\u00e3o": "TRIUNFO PART",
+        "CNPJ": "03.014.553/0001-91",
+        "Nome": "TPI \u2013 TRIUNFO PARTICIP. E INVEST. S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Transporte",
+        "Segmento": "Explora\u00e7\u00e3o de rodovias"
+    },
+    "TAEE3": {
+        "Nome de preg\u00e3o": "TAESA",
+        "CNPJ": "07.859.971/0001-30",
+        "Nome": "TRANSMISSORA ALIAN\u00c7A DE ENERGIA EL\u00c9TRICA S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "TAEE4": {
+        "Nome de preg\u00e3o": "TAESA",
+        "CNPJ": "07.859.971/0001-30",
+        "Nome": "TRANSMISSORA ALIAN\u00c7A DE ENERGIA EL\u00c9TRICA S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "TAEE11": {
+        "Nome de preg\u00e3o": "TAESA",
+        "CNPJ": "07.859.971/0001-30",
+        "Nome": "TRANSMISSORA ALIAN\u00c7A DE ENERGIA EL\u00c9TRICA S.A.",
+        "Setor": "Utilidade p\u00fablica",
+        "Sub Setor": "Energia el\u00e9trica",
+        "Segmento": "Energia el\u00e9trica"
+    },
+    "LUXM4": {
+        "Nome de preg\u00e3o": "TREVISA",
+        "CNPJ": "92.660.570/0001-26",
+        "Nome": "TREVISA INVESTIMENTOS S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Transporte",
+        "Segmento": "Transporte hidrovi\u00e1rio"
+    },
+    "TRIS3": {
+        "Nome de preg\u00e3o": "TRISUL",
+        "CNPJ": "08.811.643/0001-27",
+        "Nome": "TRISUL S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Constru\u00e7\u00e3o civil",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "CRPG5": {
+        "Nome de preg\u00e3o": "CRISTAL",
+        "CNPJ": "15.115.504/0001-24",
+        "Nome": "TRONOX PIGMENTOS DO BRASIL S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Qu\u00edmicos",
+        "Segmento": "Qu\u00edmicos diversos"
+    },
+    "CRPG6": {
+        "Nome de preg\u00e3o": "CRISTAL",
+        "CNPJ": "15.115.504/0001-24",
+        "Nome": "TRONOX PIGMENTOS DO BRASIL S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Qu\u00edmicos",
+        "Segmento": "Qu\u00edmicos diversos"
+    },
+    "CRPG3": {
+        "Nome de preg\u00e3o": "CRISTAL",
+        "CNPJ": "15.115.504/0001-24",
+        "Nome": "TRONOX PIGMENTOS DO BRASIL S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Qu\u00edmicos",
+        "Segmento": "Qu\u00edmicos diversos"
+    },
+    "TUPY3": {
+        "Nome de preg\u00e3o": "TUPY",
+        "CNPJ": "84.683.374/0001-49",
+        "Nome": "TUPY S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Material de transporte",
+        "Segmento": "Material rodovi\u00e1rio"
+    },
+    "UGPA3": {
+        "Nome de preg\u00e3o": "ULTRAPAR",
+        "CNPJ": "33.256.439/0001-39",
+        "Nome": "ULTRAPAR PARTICIPACOES S.A.",
+        "Setor": "Petr\u00f3leo, g\u00e1s e biocombust\u00edveis",
+        "Sub Setor": "Petr\u00f3leo, g\u00e1s e biocombust\u00edveis",
+        "Segmento": "Explora\u00e7\u00e3o, refino e distribui\u00e7\u00e3o"
+    },
+    "UCAS3": {
+        "Nome de preg\u00e3o": "UNICASA",
+        "CNPJ": "90.441.460/0001-48",
+        "Nome": "UNICASA IND\u00daSTRIA DE M\u00d3VEIS S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Utilidades dom\u00e9sticas",
+        "Segmento": "M\u00f3veis"
+    },
+    "UNIP3": {
+        "Nome de preg\u00e3o": "UNIPAR",
+        "CNPJ": "33.958.695/0001-78",
+        "Nome": "UNIPAR CARBOCLORO S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Qu\u00edmicos",
+        "Segmento": "Qu\u00edmicos diversos"
+    },
+    "UNIP5": {
+        "Nome de preg\u00e3o": "UNIPAR",
+        "CNPJ": "33.958.695/0001-78",
+        "Nome": "UNIPAR CARBOCLORO S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Qu\u00edmicos",
+        "Segmento": "Qu\u00edmicos diversos"
+    },
+    "UNIP6": {
+        "Nome de preg\u00e3o": "UNIPAR",
+        "CNPJ": "33.958.695/0001-78",
+        "Nome": "UNIPAR CARBOCLORO S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Qu\u00edmicos",
+        "Segmento": "Qu\u00edmicos diversos"
+    },
+    "USIM3": {
+        "Nome de preg\u00e3o": "USIMINAS",
+        "CNPJ": "60.894.730/0001-05",
+        "Nome": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Minera\u00e7\u00e3o",
+        "Segmento": "Siderurgia"
+    },
+    "USIM5": {
+        "Nome de preg\u00e3o": "USIMINAS",
+        "CNPJ": "60.894.730/0001-05",
+        "Nome": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Minera\u00e7\u00e3o",
+        "Segmento": "Siderurgia"
+    },
+    "USIM6": {
+        "Nome de preg\u00e3o": "USIMINAS",
+        "CNPJ": "60.894.730/0001-05",
+        "Nome": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Minera\u00e7\u00e3o",
+        "Segmento": "Siderurgia"
+    },
+    "VALE3": {
+        "Nome de preg\u00e3o": "VALE",
+        "CNPJ": "33.592.510/0001-54",
+        "Nome": "VALE S.A.",
+        "Setor": "Materiais b\u00e1sicos",
+        "Sub Setor": "Minera\u00e7\u00e3o",
+        "Segmento": "Minerais met\u00e1licos"
+    },
+    "VLID3": {
+        "Nome de preg\u00e3o": "VALID",
+        "CNPJ": "33.113.309/0001-47",
+        "Nome": "VALID SOLU\u00c7\u00d5ES S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Servi\u00e7os diversos",
+        "Segmento": "Servi\u00e7os diversos"
+    },
+    "VIVA3": {
+        "Nome de preg\u00e3o": "VIVARA S.A.",
+        "CNPJ": "33.839.910/0001-11",
+        "Nome": "VIVARA PARTICIPA\u00c7OES S.A",
+        "Setor": "Consumo C\u00edclico",
+        "Sub Setor": "Tecidos. Vestu\u00e1rio e Cal\u00e7ados",
+        "Segmento": "Acess\u00f3rios"
+    },
+    "VIVR3": {
+        "Nome de preg\u00e3o": "VIVER",
+        "CNPJ": "67.571.414/0001-41",
+        "Nome": "VIVER INCORPORADORA E CONSTRUTORA S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Constru\u00e7\u00e3o civil",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "VULC3": {
+        "Nome de preg\u00e3o": "VULCABRAS",
+        "CNPJ": "50.926.955/0001-42",
+        "Nome": "VULCABRAS/AZALEIA S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Tecidos vestu\u00e1rio e cal\u00e7ados",
+        "Segmento": "Cal\u00e7ados"
+    },
+    "WEGE3": {
+        "Nome de preg\u00e3o": "WEG",
+        "CNPJ": "84.429.695/0001-11",
+        "Nome": "WEG S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "M\u00e1quinas e equipamentos",
+        "Segmento": "Motores compressores e outros"
+    },
+    "MWET4": {
+        "Nome de preg\u00e3o": "WETZEL S/A",
+        "CNPJ": "84.683.671/0001-94",
+        "Nome": "WETZEL S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Material de transporte",
+        "Segmento": "Material rodovi\u00e1rio"
+    },
+    "MWET3": {
+        "Nome de preg\u00e3o": "WETZEL S/A",
+        "CNPJ": "84.683.671/0001-94",
+        "Nome": "WETZEL S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Material de transporte",
+        "Segmento": "Material rodovi\u00e1rio"
+    },
+    "WHRL3": {
+        "Nome de preg\u00e3o": "WHIRLPOOL",
+        "CNPJ": "59.105.999/0001-86",
+        "Nome": "WHIRLPOOL S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Utilidades dom\u00e9sticas",
+        "Segmento": "Eletrodom\u00e9sticos"
+    },
+    "WHRL4": {
+        "Nome de preg\u00e3o": "WHIRLPOOL",
+        "CNPJ": "59.105.999/0001-86",
+        "Nome": "WHIRLPOOL S.A.",
+        "Setor": "Consumo c\u00edclico",
+        "Sub Setor": "Utilidades dom\u00e9sticas",
+        "Segmento": "Eletrodom\u00e9sticos"
+    },
+    "WLMM4": {
+        "Nome de preg\u00e3o": "WLM IND COM",
+        "CNPJ": "33.228.024/0001-51",
+        "Nome": "WLM PART. E COM\u00c9RCIO DE M\u00c1QUINAS E VE\u00cdCULOS S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Com\u00e9rcio",
+        "Segmento": "Material de transporte"
+    },
+    "WLMM3": {
+        "Nome de preg\u00e3o": "WLM IND COM",
+        "CNPJ": "33.228.024/0001-51",
+        "Nome": "WLM PART. E COM\u00c9RCIO DE M\u00c1QUINAS E VE\u00cdCULOS S.A.",
+        "Setor": "Bens industriais",
+        "Sub Setor": "Com\u00e9rcio",
+        "Segmento": "Material de transporte"
+    },
+    "TSLA34": {
+        "Nome de preg\u00e3o": "TESLA INC",
+        "CNPJ": "00.000.000/0000-00",
+        "Nome": "TESLA INC",
+        "Setor": "Consumo C\u00edclico",
+        "Sub Setor": "Autom\u00f3veis e Motocicletas",
+        "Segmento": "Autom\u00f3veis e Motocicletas"
+    },
+    "AMZO34": {
+        "Nome de preg\u00e3o": "AMAZON",
+        "CNPJ": "00.000.000/0000-00",
+        "Nome": "AMAZON",
+        "Setor": "Consumo C\u00edclico",
+        "Sub Setor": "Com\u00e9rcio",
+        "Segmento": "Produtos Diversos"
+    },
+    "NUBR33": {
+        "Nome de preg\u00e3o": "NUBANK",
+        "CNPJ": "18.236.120/0001-58",
+        "Nome": "NUBANK",
+        "Setor": "Financeiro",
+        "Sub Setor": "Intermedi\u00e1rios financeiros",
+        "Segmento": "Bancos"
+    },
+    "BCFF11": {
+        "Nome de preg\u00e3o": "FII BC FFII",
+        "CNPJ": "11.026.627/0001-38",
+        "Nome": "FDO INV IMOB - FII BTG PACTUAL FUNDO DE FUNDOS",
+        "Setor": "Financeiro e Outros",
+        "Sub Setor": "Fundos",
+        "Segmento": "Fundos Imobili\u00e1rios"
+    },
+    "CASH3": {
+        "Nome de preg\u00e3o": "MELIUZ",
+        "CNPJ": "14.110.585/0001-07",
+        "Nome": "M\u00c9LIUZ S.A.",
+        "Setor": "Tecnologia da Informa\u00e7\u00e3o",
+        "Sub Setor": "Programas e Servi\u00e7os",
+        "Segmento": "Programas e Servi\u00e7os"
+    },
+    "M1TA34": {
+        "Nome de preg\u00e3o": "META PLAT",
+        "CNPJ": "00.000.000/0000-00",
+        "Nome": "META PLATFORMS. INC.",
+        "Setor": "Tecnologia da Informa\u00e7\u00e3o",
+        "Sub Setor": "Programas e Servi\u00e7os",
+        "Segmento": "Programas e Servi\u00e7os"
+    },
+    "VRTA11": {
+        "Nome de preg\u00e3o": "FII FATOR VE",
+        "CNPJ": "11.664.201/0001-00",
+        "Nome": "FATOR VERITA FDO INV IMOB - FII",
+        "Setor": "Financeiro e Outros",
+        "Sub Setor": "Fundos",
+        "Segmento": "Fundos Imobili\u00e1rios"
+    },
+    "JSRE11": {
+        "Nome de preg\u00e3o": "FII JS REAL",
+        "CNPJ": "13.371.132/0001-71",
+        "Nome": "JS REAL ESTATE MULTIGEST\u00c3O - FII",
+        "Setor": "Financeiro e Outros",
+        "Sub Setor": "Fundos",
+        "Segmento": "Fundos Imobili\u00e1rios"
+    },
+    "RDOR3": {
+        "Nome de preg\u00e3o": "REDE D OR",
+        "CNPJ": "06.047.087/0001-39",
+        "Nome": "SUL AMERICA S.A.",
+        "Setor": "Sa\u00fade",
+        "Sub Setor": "Servi\u00e7os m\u00e9dico - hospitalares, an\u00e1lises e diagn\u00f3sticos",
+        "Segmento": "Servi\u00e7os m\u00e9dico - hospitalares, an\u00e1lises e diagn\u00f3sticos"
+    },
+    "AERI3": {
+        "Nome de preg\u00e3o": "AERIS ON NM",
+        "CNPJ": "12.528.708/0001-07",
+        "Nome": "Aeris Ind\u00fastria e Com. de Equip. para Gera\u00e7\u00e3o de Energia S.A.",
+        "Setor": "M\u00e1quinas e Equipamentos",
+        "Sub Setor": "M\u00e1q. e Equip. Industriais",
+        "Segmento": "M\u00e1q. e Equip. Industriais"
+    },
+    "AESB3": {
+        "Nome de preg\u00e3o": "AES BRASIL ON NM",
+        "CNPJ": "37.663.076/0001-07",
+        "Nome": "AES BRASIL ENERGIA S.A.",
+        "Setor": "Energia El\u00e9trica",
+        "Sub Setor": "Energia El\u00e9trica",
+        "Segmento": "Energia El\u00e9trica"
+    },
+    "AGXY3": {
+        "Nome de preg\u00e3o": "AGROGALAXY ON NM",
+        "CNPJ": "21.240.146/0001-84",
+        "Nome": "AGROGALAXY PARTICIPACOES S.A.",
+        "Setor": "Agropecu\u00e1ria",
+        "Sub Setor": "Agricultura",
+        "Segmento": "Agricultura"
+    },
+    "AHEB6": {
+        "Nome de preg\u00e3o": "PARQUE ANHEMBI PNB",
+        "CNPJ": "62.002.886/0001-60",
+        "Nome": "S\u00c3O PAULO TURISMO S. A.",
+        "Setor": "Viagens e Lazer",
+        "Sub Setor": "Produ\u00e7\u00e3o de Eventos e Shows",
+        "Segmento": "Produ\u00e7\u00e3o de Eventos e Shows"
+    },
+    "ALLD3": {
+        "Nome de preg\u00e3o": "ALLIED ON NM",
+        "CNPJ": "20.247.322/0001-47",
+        "Nome": "Allied Tecnologia S.A.",
+        "Setor": "Com\u00e9rcio",
+        "Sub Setor": "Eletrodom\u00e9sticos",
+        "Segmento": "Eletrodom\u00e9sticos"
+    },
+    "AMBP3": {
+        "Nome de preg\u00e3o": "AMBIPAR ON NM",
+        "CNPJ": "12.648.266/0001-24",
+        "Nome": "AMBIPAR PARTICIPA\u00c7\u00d5ES E EMPREENDIMENTOS S.A.",
+        "Setor": "\u00c1gua e Saneamento",
+        "Sub Setor": "\u00c1gua e Saneamento",
+        "Segmento": "\u00c1gua e Saneamento"
+    },
+    "AMER3": {
+        "Nome de preg\u00e3o": "AMERICANAS ON",
+        "CNPJ": "00.776.574/0001-56",
+        "Nome": "AMERICANAS S.A.",
+        "Setor": "Com\u00e9rcio",
+        "Sub Setor": "Produtos Diversos",
+        "Segmento": "Produtos Diversos"
+    },
+    "ARML3": {
+        "Nome de preg\u00e3o": "ARMAC ON NM",
+        "CNPJ": "00.242.184/0001-04",
+        "Nome": "ARMAC LOCA\u00c7\u00c3O, LOG\u00cdSTICA E SERVI\u00c7OS S.A.",
+        "Setor": "Diversos",
+        "Sub Setor": "Aluguel de carros",
+        "Segmento": "Aluguel de carros"
+    },
+    "ASAI3": {
+        "Nome de preg\u00e3o": "ASSAI ON NM",
+        "CNPJ": "06.057.223/0001-71",
+        "Nome": "SENDAS DISTRIBUIDORA S.A.",
+        "Setor": "Com\u00e9rcio e Distribui\u00e7\u00e3o",
+        "Sub Setor": "Alimentos",
+        "Segmento": "Alimentos"
+    },
+    "ATMP3": {
+        "Nome de preg\u00e3o": "ATMASA ON",
+        "CNPJ": "04.032.433/0001-80",
+        "Nome": "ATMA PARTICIPA\u00c7\u00d5ES S.A.",
+        "Setor": "Servi\u00e7os Diversos",
+        "Sub Setor": "Servi\u00e7os Diversos",
+        "Segmento": "Servi\u00e7os Diversos"
+    },
+    "AVLL3": {
+        "Nome de preg\u00e3o": "ALPHAVILLE ON NM",
+        "CNPJ": "16.811.931/0001-00",
+        "Nome": "ALPHAVILLE S.A.",
+        "Setor": "Constru\u00e7\u00e3o Civil",
+        "Sub Setor": "Incorpora\u00e7\u00f5es",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "BLAU3": {
+        "Nome de preg\u00e3o": "BLAU ON NM",
+        "CNPJ": "58.430.828/0001-60",
+        "Nome": "BLAU FARMACEUTICA S.A.",
+        "Setor": "Com\u00e9rcio e Distribui\u00e7\u00e3o",
+        "Sub Setor": "Medicamentos e Outros Produtos",
+        "Segmento": "Medicamentos e Outros Produtos"
+    },
+    "BMOB3": {
+        "Nome de preg\u00e3o": "BEMOBI TECH ON NM",
+        "CNPJ": "09.042.817/0001-05",
+        "Nome": "BEMOBI MOBILE TECH S.A.",
+        "Setor": "Programas e Servi\u00e7os",
+        "Sub Setor": "Programas e Servi\u00e7os",
+        "Segmento": "Programas e Servi\u00e7os"
+    },
+    "BOAS3": {
+        "Nome de preg\u00e3o": "BOA VISTA ON NM",
+        "CNPJ": "11.725.176/0001-27",
+        "Nome": "BOA VISTA SERVICOS S.A.",
+        "Setor": "Servi\u00e7os Financeiros Diversos",
+        "Sub Setor": "Servi\u00e7os Financeiros Diversos",
+        "Segmento": "Servi\u00e7os Financeiros Diversos"
+    },
+    "BOBR3": {
+        "Nome de preg\u00e3o": "BOMBRIL SA ON",
+        "CNPJ": "50.564.053/0001-03",
+        "Nome": "BOMBRIL SA",
+        "Setor": "Produtos de Uso Pessoal e de Limpeza",
+        "Sub Setor": "Produtos de Limpeza",
+        "Segmento": "Produtos de Limpeza"
+    },
+    "BRBI11": {
+        "Nome de preg\u00e3o": "BR PARTNERS UNT N2",
+        "CNPJ": "10.739.356/0001-03",
+        "Nome": "BR ADVISORY PARTNERS PARTICIPACOES S.A.",
+        "Setor": "Intermedi\u00e1rios Financeiros",
+        "Sub Setor": "Bancos",
+        "Segmento": "Bancos"
+    },
+    "BRGE12": {
+        "Nome de preg\u00e3o": "CONSORCIO ALFA PNF",
+        "CNPJ": "17.193.806/0001-46",
+        "Nome": "CONSORCIO ALFA DE ADMINISTRA\u00c7\u00c3O SA",
+        "Setor": "Previd\u00eancia e Seguros",
+        "Sub Setor": "Seguradoras",
+        "Segmento": "Seguradoras"
+    },
+    "BRGE7": {
+        "Nome de preg\u00e3o": "CONSORCIO ALFA PNC",
+        "CNPJ": "17.193.806/0001-46",
+        "Nome": "CONSORCIO ALFA DE ADMINISTRA\u00c7\u00c3O SA",
+        "Setor": "Previd\u00eancia e Seguros",
+        "Sub Setor": "Seguradoras",
+        "Segmento": "Seguradoras"
+    },
+    "BRIT3": {
+        "Nome de preg\u00e3o": "BRISANET ON NM",
+        "CNPJ": "19.796.586/0001-70",
+        "Nome": "BRISANET PARTICIPA\u00c7\u00d5ES S.A.",
+        "Setor": "Telecomunica\u00e7\u00f5es",
+        "Sub Setor": "Telecomunica\u00e7\u00f5es",
+        "Segmento": "Telecomunica\u00e7\u00f5es"
+    },
+    "CALI3": {
+        "Nome de preg\u00e3o": "CAL S/A ON",
+        "CNPJ": "61.022.042/0001-18",
+        "Nome": "CONST ADOLPHO LINDENBERG SA",
+        "Setor": "Constru\u00e7\u00e3o Civil",
+        "Sub Setor": "Incorpora\u00e7\u00f5es",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "CAMB3": {
+        "Nome de preg\u00e3o": "PENALTY ON",
+        "CNPJ": "61.088.894/0001-08",
+        "Nome": "CAMBUCI SA",
+        "Setor": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados",
+        "Sub Setor": "Cal\u00e7ados",
+        "Segmento": "Cal\u00e7ados"
+    },
+    "CBAV3": {
+        "Nome de preg\u00e3o": "CBA ON NM",
+        "CNPJ": "61.409.892/0001-73",
+        "Nome": "COMPANHIA BRASILEIRA DE ALUMINIO S.A.",
+        "Setor": "Minera\u00e7\u00e3o",
+        "Sub Setor": "Minerais Met\u00e1licos",
+        "Segmento": "Minerais Met\u00e1licos"
+    },
+    "CLSA3": {
+        "Nome de preg\u00e3o": "CLEARSALE ON NM",
+        "CNPJ": "03.802.115/0001-98",
+        "Nome": "CLEAR SALE S.A.",
+        "Setor": "Servi\u00e7os Financeiros Diversos",
+        "Sub Setor": "Servi\u00e7os Financeiros Diversos",
+        "Segmento": "Servi\u00e7os Financeiros Diversos"
+    },
+    "CMIN3": {
+        "Nome de preg\u00e3o": "CSNMINERACAO ON N2",
+        "CNPJ": "08.902.291/0001-15",
+        "Nome": "CSN MINERACAO S.A.",
+        "Setor": "Minera\u00e7\u00e3o",
+        "Sub Setor": "Minerais Met\u00e1licos",
+        "Segmento": "Minerais Met\u00e1licos"
+    },
+    "COCE6": {
+        "Nome de preg\u00e3o": "CIA ENERG CEARA - COELCE PNB",
+        "CNPJ": "07.047.251/0001-70",
+        "Nome": "CIA ENERG CEARA \u2013 COELCE",
+        "Setor": "Energia El\u00e9trica",
+        "Sub Setor": "Energia El\u00e9trica",
+        "Segmento": "Energia El\u00e9trica"
+    },
+    "COGN3": {
+        "Nome de preg\u00e3o": "COGNA ON",
+        "CNPJ": "02.800.026/0001-40",
+        "Nome": "COGNA EDUCA\u00c7\u00c3O",
+        "Setor": "Diversos",
+        "Sub Setor": "Servi\u00e7os Educacionais",
+        "Segmento": "Servi\u00e7os Educacionais"
+    },
+    "CORR3": {
+        "Nome de preg\u00e3o": "CORREA RIBEIRO SA COM. IND. ON",
+        "CNPJ": "15.101.405/0001-93",
+        "Nome": "CORREA RIBEIRO SA COM IND",
+        "Setor": "Explora\u00e7\u00e3o de Im\u00f3veis",
+        "Sub Setor": "Explora\u00e7\u00e3o de Im\u00f3veis",
+        "Segmento": "Explora\u00e7\u00e3o de Im\u00f3veis"
+    },
+    "CPLE11": {
+        "Nome de preg\u00e3o": "COPEL UNT",
+        "CNPJ": "76.483.817/0001-20",
+        "Nome": "COMPANHIA PARANAENSE DE ENERGIA",
+        "Setor": "Energia El\u00e9trica",
+        "Sub Setor": "Energia El\u00e9trica",
+        "Segmento": "Energia El\u00e9trica"
+    },
+    "CPLE5": {
+        "Nome de preg\u00e3o": "COPEL PNA",
+        "CNPJ": "76.483.817/0001-20",
+        "Nome": "COMPANHIA PARANAENSE DE ENERGIA",
+        "Setor": "Energia El\u00e9trica",
+        "Sub Setor": "Energia El\u00e9trica",
+        "Segmento": "Energia El\u00e9trica"
+    },
+    "CSED3": {
+        "Nome de preg\u00e3o": "CRUZEIRO EDU ON NM",
+        "CNPJ": "62.984.091/0001-02",
+        "Nome": "CRUZEIRO DO SUL EDUCACIONAL S.A.",
+        "Setor": "Diversos",
+        "Sub Setor": "Servi\u00e7os Educacionais",
+        "Segmento": "Servi\u00e7os Educacionais"
+    },
+    "CURY3": {
+        "Nome de preg\u00e3o": "CURY S/A ON NM",
+        "CNPJ": "08.797.760/0001-83",
+        "Nome": "CURY CONSTRUTORA E INCORPORADORA S.A.",
+        "Setor": "Constru\u00e7\u00e3o Civil",
+        "Sub Setor": "Incorpora\u00e7\u00f5es",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "CXSE3": {
+        "Nome de preg\u00e3o": "CAIXA SEGURI ON NM",
+        "CNPJ": "22.543.331/0001-00",
+        "Nome": "CAIXA SEGURIDADE PARTICIPA\u00c7\u00d5ES S.A.",
+        "Setor": "Previd\u00eancia e Seguros",
+        "Sub Setor": "Seguradoras",
+        "Segmento": "Seguradoras"
+    },
+    "DESK3": {
+        "Nome de preg\u00e3o": "DESKTOPSIGMA ON NM",
+        "CNPJ": "08.170.849/0001-15",
+        "Nome": "DESKTOP \u0096 SIGMANET COMUNICA\u00c7\u00c3O MULTIM\u00cdDIA S.A.",
+        "Setor": "Telecomunica\u00e7\u00f5es",
+        "Sub Setor": "Telecomunica\u00e7\u00f5es",
+        "Segmento": "Telecomunica\u00e7\u00f5es"
+    },
+    "DEXP3": {
+        "Nome de preg\u00e3o": "DEXXOS PAR ON",
+        "CNPJ": "02.193.750/0001-52",
+        "Nome": "DEXXOS PARTICIPACOES S.A.",
+        "Setor": "Qu\u00edmicos",
+        "Sub Setor": "Petroqu\u00edmicos",
+        "Segmento": "Petroqu\u00edmicos"
+    },
+    "DEXP4": {
+        "Nome de preg\u00e3o": "DEXXOS PAR PN",
+        "CNPJ": "02.193.750/0001-52",
+        "Nome": "DEXXOS PARTICIPACOES S.A.",
+        "Setor": "Qu\u00edmicos",
+        "Sub Setor": "Petroqu\u00edmicos",
+        "Segmento": "Petroqu\u00edmicos"
+    },
+    "DMVF3": {
+        "Nome de preg\u00e3o": "D1000VFARMA ON NM",
+        "CNPJ": "12.108.897/0001-50",
+        "Nome": "D1000 VAREJO FARMA PARTICIPACOES S.A.",
+        "Setor": "Com\u00e9rcio e Distribui\u00e7\u00e3o",
+        "Sub Setor": "Medicamentos e Outros Produtos",
+        "Segmento": "Medicamentos e Outros Produtos"
+    },
+    "DOTZ3": {
+        "Nome de preg\u00e3o": "DOTZ SA ON NM",
+        "CNPJ": "18.174.270/0001-84",
+        "Nome": "DOTZ S.A.",
+        "Setor": "Diversos",
+        "Sub Setor": "Programas de Fideliza\u00e7\u00e3o",
+        "Segmento": "Programas de Fideliza\u00e7\u00e3o"
+    },
+    "DXCO3": {
+        "Nome de preg\u00e3o": "DEXCO ON",
+        "CNPJ": "97.837.181/0001-47",
+        "Nome": "DURATEX S.A.",
+        "Setor": "Madeira e Papel",
+        "Sub Setor": "Madeira",
+        "Segmento": "Madeira"
+    },
+    "ELMD3": {
+        "Nome de preg\u00e3o": "ELETROMIDIA ON NM",
+        "CNPJ": "09.347.516/0001-81",
+        "Nome": "ELETROMIDIA S.A.",
+        "Setor": "M\u00eddia",
+        "Sub Setor": "Publicidade e Propaganda",
+        "Segmento": "Publicidade e Propaganda"
+    },
+    "ENJU3": {
+        "Nome de preg\u00e3o": "ENJOEI ON NM",
+        "CNPJ": "16.922.038/0001-51",
+        "Nome": "ENJOEI.COM.BR ATIVIDADES DE INTERNET S.A.",
+        "Setor": "Programas e Servi\u00e7os",
+        "Sub Setor": "Programas e Servi\u00e7os",
+        "Segmento": "Programas e Servi\u00e7os"
+    },
+    "EPAR3": {
+        "Nome de preg\u00e3o": "EMBPAR S/A ON",
+        "CNPJ": "42.331.462/0001-31",
+        "Nome": "EMBPAR PARTICIPACOES S/A",
+        "Setor": "Com\u00e9rcio",
+        "Sub Setor": "Material de Transporte",
+        "Segmento": "Material de Transporte"
+    },
+    "EQMA3B": {
+        "Nome de preg\u00e3o": "CEMAR ON MB",
+        "CNPJ": "06.272.793/0001-84",
+        "Nome": "EQUATORIAL MARANH\u00c3O DISTRIBUIDORA DE ENERGIA S.A.",
+        "Setor": "Energia El\u00e9trica",
+        "Sub Setor": "Energia El\u00e9trica",
+        "Segmento": "Energia El\u00e9trica"
+    },
+    "EQPA3": {
+        "Nome de preg\u00e3o": "EQTL PARA ON",
+        "CNPJ": "04.895.728/0001-80",
+        "Nome": "EQUATORIAL PAR\u00c1 DISTRIBUIDORA DE ENERGIA S.A.",
+        "Setor": "Energia El\u00e9trica",
+        "Sub Setor": "Energia El\u00e9trica",
+        "Segmento": "Energia El\u00e9trica"
+    },
+    "EQPA5": {
+        "Nome de preg\u00e3o": "EQTL PARA PNA",
+        "CNPJ": "04.895.728/0001-80",
+        "Nome": "EQUATORIAL PAR\u00c1 DISTRIBUIDORA DE ENERGIA S.A.",
+        "Setor": "Energia El\u00e9trica",
+        "Sub Setor": "Energia El\u00e9trica",
+        "Segmento": "Energia El\u00e9trica"
+    },
+    "EQPA6": {
+        "Nome de preg\u00e3o": "EQTL PARA PNB",
+        "CNPJ": "04.895.728/0001-80",
+        "Nome": "EQUATORIAL PAR\u00c1 DISTRIBUIDORA DE ENERGIA S.A.",
+        "Setor": "Energia El\u00e9trica",
+        "Sub Setor": "Energia El\u00e9trica",
+        "Segmento": "Energia El\u00e9trica"
+    },
+    "EQPA7": {
+        "Nome de preg\u00e3o": "EQTL PARA PNC",
+        "CNPJ": "04.895.728/0001-80",
+        "Nome": "EQUATORIAL PAR\u00c1 DISTRIBUIDORA DE ENERGIA S.A.",
+        "Setor": "Energia El\u00e9trica",
+        "Sub Setor": "Energia El\u00e9trica",
+        "Segmento": "Energia El\u00e9trica"
+    },
+    "ESPA3": {
+        "Nome de preg\u00e3o": "ESPACOLASER ON NM",
+        "CNPJ": "26.659.061/0001-59",
+        "Nome": "MPM CORPOREOS S.A.",
+        "Setor": "Com\u00e9rcio",
+        "Sub Setor": "Produtos Diversos",
+        "Segmento": "Produtos Diversos"
+    },
+    "ESTR3": {
+        "Nome de preg\u00e3o": "ESTRELA ON",
+        "CNPJ": "61.082.004/0001-50",
+        "Nome": "MANUFATURA DE BRINQUEDOS ESTRELA SA",
+        "Setor": "Viagens e Lazer",
+        "Sub Setor": "Brinquedos e Jogos",
+        "Segmento": "Brinquedos e Jogos"
+    },
+    "FIGE3": {
+        "Nome de preg\u00e3o": "INVESTIMENTOS BEMGE ON",
+        "CNPJ": "01.548.981/0001-79",
+        "Nome": "INVESTIMENTOS BEMGE S.A.",
+        "Setor": "Outros",
+        "Sub Setor": "Outros",
+        "Segmento": "Outros"
+    },
+    "FIGE4": {
+        "Nome de preg\u00e3o": "INVESTIMENTOS BEMGE PN",
+        "CNPJ": "01.548.981/0001-79",
+        "Nome": "INVESTIMENTOS BEMGE S.A.",
+        "Setor": "Outros",
+        "Sub Setor": "Outros",
+        "Segmento": "Outros"
+    },
+    "FIQE3": {
+        "Nome de preg\u00e3o": "UNIFIQUE ON NM",
+        "CNPJ": "02.255.187/0001-08",
+        "Nome": "UNIFIQUE TELECOMUNICACOES S.A.",
+        "Setor": "Telecomunica\u00e7\u00f5es",
+        "Sub Setor": "Telecomunica\u00e7\u00f5es",
+        "Segmento": "Telecomunica\u00e7\u00f5es"
+    },
+    "GGPS3": {
+        "Nome de preg\u00e3o": "GPS ON NM",
+        "CNPJ": "09.229.201/0001-30",
+        "Nome": "GPS PARTICIPACOES E EMPREENDIMENTOS S.A.",
+        "Setor": "Servi\u00e7os Diversos",
+        "Sub Setor": "Servi\u00e7os Diversos",
+        "Segmento": "Servi\u00e7os Diversos"
+    },
+    "GMAT3": {
+        "Nome de preg\u00e3o": "GRUPO MATEUS ON NM",
+        "CNPJ": "24.990.777/0001-09",
+        "Nome": "GRUPO MATEUS S.A.",
+        "Setor": "Com\u00e9rcio e Distribui\u00e7\u00e3o",
+        "Sub Setor": "Alimentos",
+        "Segmento": "Alimentos"
+    },
+    "HBRE3": {
+        "Nome de preg\u00e3o": "HBR REALTY ON NM",
+        "CNPJ": "14.785.152/0001-51",
+        "Nome": "HBR REALTY EMPREENDIMENTOS IMOBILI\u00c1RIOS S.A.",
+        "Setor": "Explora\u00e7\u00e3o de Im\u00f3veis",
+        "Sub Setor": "Explora\u00e7\u00e3o de Im\u00f3veis",
+        "Segmento": "Explora\u00e7\u00e3o de Im\u00f3veis"
+    },
+    "HBSA3": {
+        "Nome de preg\u00e3o": "HIDROVIAS ON NM",
+        "CNPJ": "12.648.327/0001-53",
+        "Nome": "HIDROVIAS DO BRASIL S.A.",
+        "Setor": "Transporte",
+        "Sub Setor": "Transporte Hidrovi\u00e1rio",
+        "Segmento": "Transporte Hidrovi\u00e1rio"
+    },
+    "HETA3": {
+        "Nome de preg\u00e3o": "HERCULES S/A ON",
+        "CNPJ": "92.749.225/0001-63",
+        "Nome": "HERCULES S/A \u2013 FABRICA DE TALHERES",
+        "Setor": "Utilidades Dom\u00e9sticas",
+        "Sub Setor": "Utens\u00edlios Dom\u00e9sticos",
+        "Segmento": "Utens\u00edlios Dom\u00e9sticos"
+    },
+    "IFCM3": {
+        "Nome de preg\u00e3o": "INFRACOMM ON NM",
+        "CNPJ": "38.456.921/0001-36",
+        "Nome": "INFRACOMMERCE CXAAS S.A.",
+        "Setor": "Programas e Servi\u00e7os",
+        "Sub Setor": "Programas e Servi\u00e7os",
+        "Segmento": "Programas e Servi\u00e7os"
+    },
+    "IGTI11": {
+        "Nome de preg\u00e3o": "IGUATEMI S.A UNT N1",
+        "CNPJ": "60.543.816/0001-93",
+        "Nome": "IGUATEMI S.A.",
+        "Setor": "Explora\u00e7\u00e3o de Im\u00f3veis",
+        "Sub Setor": "Explora\u00e7\u00e3o de Im\u00f3veis",
+        "Segmento": "Explora\u00e7\u00e3o de Im\u00f3veis"
+    },
+    "IGTI3": {
+        "Nome de preg\u00e3o": "IGUATEMI S.A ON N1",
+        "CNPJ": "60.543.816/0001-93",
+        "Nome": "IGUATEMI S.A.",
+        "Setor": "Explora\u00e7\u00e3o de Im\u00f3veis",
+        "Sub Setor": "Explora\u00e7\u00e3o de Im\u00f3veis",
+        "Segmento": "Explora\u00e7\u00e3o de Im\u00f3veis"
+    },
+    "INTB3": {
+        "Nome de preg\u00e3o": "INTELBRAS ON NM",
+        "CNPJ": "82.901.000/0001-27",
+        "Nome": "INTELBRAS S.A.",
+        "Setor": "Computadores e Equipamentos",
+        "Sub Setor": "Computadores e Equipamentos",
+        "Segmento": "Computadores e Equipamentos"
+    },
+    "JALL3": {
+        "Nome de preg\u00e3o": "JALLESMACHAD ON NM",
+        "CNPJ": "02.635.522/0001-95",
+        "Nome": "JALLES MACHADO S.A.",
+        "Setor": "Alimentos Processados",
+        "Sub Setor": "A\u00e7ucar e Alcool",
+        "Segmento": "A\u00e7ucar e Alcool"
+    },
+    "KRSA3": {
+        "Nome de preg\u00e3o": "KORA SAUDE ON NM",
+        "CNPJ": "13.270.520/0001-66",
+        "Nome": "KORA SAUDE PARTICIPACOES S.A.",
+        "Setor": "Serv.M\u00e9d.Hospit. An\u00e1lises e Diagn\u00f3sticos",
+        "Sub Setor": "Serv.M\u00e9d.Hospit. An\u00e1lises e Diagn\u00f3sticos",
+        "Segmento": "Serv.M\u00e9d.Hospit. An\u00e1lises e Diagn\u00f3sticos"
+    },
+    "LAND3": {
+        "Nome de preg\u00e3o": "TERRASANTAPA ON NM",
+        "CNPJ": "40.337.136/0001-06",
+        "Nome": "TERRA SANTA PROPRIEDADES AGRICOLAS S.A.",
+        "Setor": "Agropecu\u00e1ria",
+        "Sub Setor": "Agricultura",
+        "Segmento": "Agricultura"
+    },
+    "LAVV3": {
+        "Nome de preg\u00e3o": "LAVVI ON NM",
+        "CNPJ": "26.462.693/0001-28",
+        "Nome": "LAVVI EMPREENDIMENTOS IMOBILIARIOS S.A.",
+        "Setor": "Constru\u00e7\u00e3o Civil",
+        "Sub Setor": "Incorpora\u00e7\u00f5es",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "LJQQ3": {
+        "Nome de preg\u00e3o": "QUERO-QUERO ON NM",
+        "CNPJ": "96.418.264/0218-02",
+        "Nome": "LOJAS QUERO-QUERO S.A.",
+        "Setor": "Com\u00e9rcio",
+        "Sub Setor": "Produtos Diversos",
+        "Segmento": "Produtos Diversos"
+    },
+    "LUXM3": {
+        "Nome de preg\u00e3o": "TREVISA INVESTIMENTOS SA ON",
+        "CNPJ": "92.660.570/0001-26",
+        "Nome": "TREVISA INVESTIMENTOS SA",
+        "Setor": "Transporte",
+        "Sub Setor": "Transporte Hidrovi\u00e1rio",
+        "Segmento": "Transporte Hidrovi\u00e1rio"
+    },
+    "LVTC3": {
+        "Nome de preg\u00e3o": "WDC NETWORKS ON NM",
+        "CNPJ": "05.917.486/0001-40",
+        "Nome": "LIVETECH DA BAHIA IND\u00daSTRIA E COM\u00c9RCIO S.A.",
+        "Setor": "Programas e Servi\u00e7os",
+        "Sub Setor": "Programas e Servi\u00e7os",
+        "Segmento": "Programas e Servi\u00e7os"
+    },
+    "MATD3": {
+        "Nome de preg\u00e3o": "MATER DEI ON NM",
+        "CNPJ": "16.676.520/0001-59",
+        "Nome": "HOSPITAL MATER DEI S.A.",
+        "Setor": "Serv.M\u00e9d.Hospit. An\u00e1lises e Diagn\u00f3sticos",
+        "Sub Setor": "Serv.M\u00e9d.Hospit. An\u00e1lises e Diagn\u00f3sticos",
+        "Segmento": "Serv.M\u00e9d.Hospit. An\u00e1lises e Diagn\u00f3sticos"
+    },
+    "MBLY3": {
+        "Nome de preg\u00e3o": "MOBLY ON NM",
+        "CNPJ": "31.553.627/0001-01",
+        "Nome": "MOBLY S.A.",
+        "Setor": "Programas e Servi\u00e7os",
+        "Sub Setor": "Programas e Servi\u00e7os",
+        "Segmento": "Programas e Servi\u00e7os"
+    },
+    "MEGA3": {
+        "Nome de preg\u00e3o": "OMEGAENERGIA ON NM",
+        "CNPJ": "42.500.384/0001-51",
+        "Nome": "OMEGA ENERGIA S.A.",
+        "Setor": "Energia El\u00e9trica",
+        "Sub Setor": "Energia El\u00e9trica",
+        "Segmento": "Energia El\u00e9trica"
+    },
+    "MELK3": {
+        "Nome de preg\u00e3o": "MELNICK ON NM",
+        "CNPJ": "12.181.987/0001-77",
+        "Nome": "MELNICK EVEN DESENVOLVIMENTO IMOBILI\u00c1RIO S.A.",
+        "Setor": "Constru\u00e7\u00e3o Civil",
+        "Sub Setor": "Incorpora\u00e7\u00f5es",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "MGEL3": {
+        "Nome de preg\u00e3o": "MANGELS ON",
+        "CNPJ": "61.065.298/0001-02",
+        "Nome": "MANGELS INDUSTRIAL SA \u2013 EM RECUPERA\u00c7\u00c3O JUDICIAL",
+        "Setor": "Siderurgia e Metalurgia",
+        "Sub Setor": "Artefatos de Ferro e A\u00e7o",
+        "Segmento": "Artefatos de Ferro e A\u00e7o"
+    },
+    "MLAS3": {
+        "Nome de preg\u00e3o": "MULTILASER ON NM",
+        "CNPJ": "59.717.553/0001-02",
+        "Nome": "MULTILASER INDUSTRIAL S.A.",
+        "Setor": "Computadores e Equipamentos",
+        "Sub Setor": "Computadores e Equipamentos",
+        "Segmento": "Computadores e Equipamentos"
+    },
+    "MMAQ3": {
+        "Nome de preg\u00e3o": "MINASM\u00c1QUINAS S/A ON",
+        "CNPJ": "17.161.241/0001-15",
+        "Nome": "MINASMAQUINAS SA",
+        "Setor": "Com\u00e9rcio",
+        "Sub Setor": "Material de Transporte",
+        "Segmento": "Material de Transporte"
+    },
+    "MMAQ4": {
+        "Nome de preg\u00e3o": "MINASM\u00c1QUINAS S/A PN",
+        "CNPJ": "17.161.241/0001-15",
+        "Nome": "MINASMAQUINAS SA",
+        "Setor": "Com\u00e9rcio",
+        "Sub Setor": "Material de Transporte",
+        "Segmento": "Material de Transporte"
+    },
+    "MODL3": {
+        "Nome de preg\u00e3o": "MODALMAIS ON N2",
+        "CNPJ": "30.723.886/0001-62",
+        "Nome": "BANCO MODAL S.A.",
+        "Setor": "Intermedi\u00e1rios Financeiros",
+        "Sub Setor": "Bancos",
+        "Segmento": "Bancos"
+    },
+    "MRSA3B": {
+        "Nome de preg\u00e3o": "MRS LOG\u00cdSTICA S/A ON MB",
+        "CNPJ": "01.417.222/0001-77",
+        "Nome": "MRS LOG\u00cdSTICA S/A",
+        "Setor": "Transporte",
+        "Sub Setor": "Transporte Ferrovi\u00e1rio",
+        "Segmento": "Transporte Ferrovi\u00e1rio"
+    },
+    "MRSA5B": {
+        "Nome de preg\u00e3o": "MRS LOG\u00cdSTICA S/A PNA MB",
+        "CNPJ": "01.417.222/0001-77",
+        "Nome": "MRS LOG\u00cdSTICA S/A",
+        "Setor": "Transporte",
+        "Sub Setor": "Transporte Ferrovi\u00e1rio",
+        "Segmento": "Transporte Ferrovi\u00e1rio"
+    },
+    "MRSA6B": {
+        "Nome de preg\u00e3o": "MRS LOG\u00cdSTICA S/A PNB MB",
+        "CNPJ": "01.417.222/0001-77",
+        "Nome": "MRS LOG\u00cdSTICA S/A",
+        "Setor": "Transporte",
+        "Sub Setor": "Transporte Ferrovi\u00e1rio",
+        "Segmento": "Transporte Ferrovi\u00e1rio"
+    },
+    "MTIG3": {
+        "Nome de preg\u00e3o": "IGUA\u00c7U ON",
+        "CNPJ": "80.227.184/0001-66",
+        "Nome": "METALGRAFICA IGUACU SA",
+        "Setor": "Embalagens",
+        "Sub Setor": "Embalagens",
+        "Segmento": "Embalagens"
+    },
+    "NGRD3": {
+        "Nome de preg\u00e3o": "NEOGRID ON NM",
+        "CNPJ": "10.139.870/0001-08",
+        "Nome": "NEOGRID PARTICIPAC\u00d5ES S.A.",
+        "Setor": "Programas e Servi\u00e7os",
+        "Sub Setor": "Programas e Servi\u00e7os",
+        "Segmento": "Programas e Servi\u00e7os"
+    },
+    "NINJ3": {
+        "Nome de preg\u00e3o": "GETNINJAS ON NM",
+        "CNPJ": "14.127.813/0001-51",
+        "Nome": "GETNINJAS S.A.",
+        "Setor": "Programas e Servi\u00e7os",
+        "Sub Setor": "Programas e Servi\u00e7os",
+        "Segmento": "Programas e Servi\u00e7os"
+    },
+    "ODER4": {
+        "Nome de preg\u00e3o": "CONSERVAS ODERICH SA PN",
+        "CNPJ": "97.191.902/0001-94",
+        "Nome": "CONSERVAS ODERICH SA",
+        "Setor": "Alimentos Processados",
+        "Sub Setor": "Alimentos Diversos",
+        "Segmento": "Alimentos Diversos"
+    },
+    "ONCO3": {
+        "Nome de preg\u00e3o": "ONCOCLINICAS ON NM",
+        "CNPJ": "12.104.241/0004-02",
+        "Nome": "ONCOCL\u00cdNICAS DO BRASIL SERVI\u00c7OS M\u00c9DICOS S.A.",
+        "Setor": "Serv.M\u00e9d.Hospit. An\u00e1lises e Diagn\u00f3sticos",
+        "Sub Setor": "Serv.M\u00e9d.Hospit. An\u00e1lises e Diagn\u00f3sticos",
+        "Segmento": "Serv.M\u00e9d.Hospit. An\u00e1lises e Diagn\u00f3sticos"
+    },
+    "OPCT3": {
+        "Nome de preg\u00e3o": "OCEANPACT ON NM",
+        "CNPJ": "09.114.805/0001-30",
+        "Nome": "OCEANPACT SERVI\u00c7OS MARITIMOS S.A.",
+        "Setor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis",
+        "Sub Setor": "Equipamentos e Servi\u00e7os",
+        "Segmento": "Equipamentos e Servi\u00e7os"
+    },
+    "ORVR3": {
+        "Nome de preg\u00e3o": "ORIZON ON NM",
+        "CNPJ": "11.421.994/0001-36",
+        "Nome": "ORIZON VALORIZACAO DE RESIDUOS S.A.",
+        "Setor": "\u00c1gua e Saneamento",
+        "Sub Setor": "\u00c1gua e Saneamento",
+        "Segmento": "\u00c1gua e Saneamento"
+    },
+    "PDTC3": {
+        "Nome de preg\u00e3o": "PADTEC ON",
+        "CNPJ": "02.365.069/0001-44",
+        "Nome": "PADTEC HOLDING S.A.",
+        "Setor": "Servi\u00e7os Financeiros Diversos",
+        "Sub Setor": "Gest\u00e3o de Recursos e Investimentos",
+        "Segmento": "Gest\u00e3o de Recursos e Investimentos"
+    },
+    "PETZ3": {
+        "Nome de preg\u00e3o": "PETZ ON NM",
+        "CNPJ": "18.328.118/0001-09",
+        "Nome": "PET CENTER COM\u00c9RCIO E PARTICIPA\u00c7\u00d5ES S.A",
+        "Setor": "Com\u00e9rcio",
+        "Sub Setor": "Produtos Diversos",
+        "Segmento": "Produtos Diversos"
+    },
+    "PGMN3": {
+        "Nome de preg\u00e3o": "PAGUE MENOS ON NM",
+        "CNPJ": "06.626.253/0001-51",
+        "Nome": "EMPREENDIMENTOS PAGUE MENOS S.A.",
+        "Setor": "Com\u00e9rcio e Distribui\u00e7\u00e3o",
+        "Sub Setor": "Medicamentos e Outros Produtos",
+        "Segmento": "Medicamentos e Outros Produtos"
+    },
+    "PINE3": {
+        "Nome de preg\u00e3o": "Pine ON N1",
+        "CNPJ": "62.144.175/0001-20",
+        "Nome": "BANCO PINE S/A",
+        "Setor": "Intermedi\u00e1rios Financeiros",
+        "Sub Setor": "Bancos",
+        "Segmento": "Bancos"
+    },
+    "PLPL3": {
+        "Nome de preg\u00e3o": "PLANOEPLANO ON NM",
+        "CNPJ": "24.230.275/0001-80",
+        "Nome": "PLANO & PLANO DESENVOLVIMENTO IMOBILIARIO LTDA",
+        "Setor": "Constru\u00e7\u00e3o Civil",
+        "Sub Setor": "Incorpora\u00e7\u00f5es",
+        "Segmento": "Incorpora\u00e7\u00f5es"
+    },
+    "PORT3": {
+        "Nome de preg\u00e3o": "WILSON SONS ON NM",
+        "CNPJ": "05.721.735/0001-28",
+        "Nome": "WILSON SONS LIMITED",
+        "Setor": "Transporte",
+        "Sub Setor": "Servi\u00e7os de Apoio e Armazenagem",
+        "Segmento": "Servi\u00e7os de Apoio e Armazenagem"
+    },
+    "PRNR3": {
+        "Nome de preg\u00e3o": "PRINER ON NM",
+        "CNPJ": "18.593.815/0001-97",
+        "Nome": "PRINER SERVI\u00c7OS INDUSTRIAIS S.A.",
+        "Setor": "Servi\u00e7os Diversos",
+        "Sub Setor": "Servi\u00e7os Diversos",
+        "Segmento": "Servi\u00e7os Diversos"
+    },
+    "RAIZ4": {
+        "Nome de preg\u00e3o": "RAIZEN PN N2",
+        "CNPJ": "33.453.598/0001-23",
+        "Nome": "RA\u00cdZEN COMBUST\u00cdVEIS S.A",
+        "Setor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis",
+        "Sub Setor": "Explora\u00e7\u00e3o, Refino e Distribui\u00e7\u00e3o",
+        "Segmento": "Explora\u00e7\u00e3o, Refino e Distribui\u00e7\u00e3o"
+    },
+    "RCSL3": {
+        "Nome de preg\u00e3o": "RECRUSUL ON",
+        "CNPJ": "91.333.666/0001-17",
+        "Nome": "RECRUSUL SA",
+        "Setor": "Material de Transporte",
+        "Sub Setor": "Material Rodovi\u00e1rio",
+        "Segmento": "Material Rodovi\u00e1rio"
+    },
+    "RECV3": {
+        "Nome de preg\u00e3o": "PETRORECONCA ON NM",
+        "CNPJ": "03.342.704/0001-30",
+        "Nome": "PETRORECONCAVO S.A.",
+        "Setor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis",
+        "Sub Setor": "Explora\u00e7\u00e3o, Refino e Distribui\u00e7\u00e3o",
+        "Segmento": "Explora\u00e7\u00e3o, Refino e Distribui\u00e7\u00e3o"
+    },
+    "RRRP3": {
+        "Nome de preg\u00e3o": "3R PETROLEUM ON NM",
+        "CNPJ": "12.091.809/0001-55",
+        "Nome": "3R PETROLEUM OLEO E GAS S.A.",
+        "Setor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis",
+        "Sub Setor": "Explora\u00e7\u00e3o, Refino e Distribui\u00e7\u00e3o",
+        "Segmento": "Explora\u00e7\u00e3o, Refino e Distribui\u00e7\u00e3o"
+    },
+    "SBFG3": {
+        "Nome de preg\u00e3o": "GRUPO SBF ON",
+        "CNPJ": "13.217.485/0001-11",
+        "Nome": "GRUPO SBF S.A.",
+        "Setor": "Com\u00e9rcio",
+        "Sub Setor": "Produtos Diversos",
+        "Segmento": "Produtos Diversos"
+    },
+    "SEQL3": {
+        "Nome de preg\u00e3o": "SEQUOIA LOG ON NM",
+        "CNPJ": "01.599.101/0001-93",
+        "Nome": "SEQUOIA LOG\u00cdSTICA E TRANSPORTES S.A.",
+        "Setor": "Servi\u00e7os Diversos",
+        "Sub Setor": "Servi\u00e7os Diversos",
+        "Segmento": "Servi\u00e7os Diversos"
+    },
+    "SIMH3": {
+        "Nome de preg\u00e3o": "SIMPAR ON NM",
+        "CNPJ": "07.415.333/0001-20",
+        "Nome": "SIMPAR S.A.",
+        "Setor": "Holdings Diversificadas",
+        "Sub Setor": "Holdings Diversificadas",
+        "Segmento": "Holdings Diversificadas"
+    },
+    "SMFT3": {
+        "Nome de preg\u00e3o": "SMART FIT ON NM",
+        "CNPJ": "07.594.978/0001-78",
+        "Nome": "SMARTFIT ESCOLA DE GIN\u00c1STICA E DAN\u00c7A S.A.",
+        "Setor": "Viagens e Lazer",
+        "Sub Setor": "Atividades Esportivas",
+        "Segmento": "Atividades Esportivas"
+    },
+    "SOJA3": {
+        "Nome de preg\u00e3o": "BOA SAFRA ON NM",
+        "CNPJ": "10.807.374/0001-77",
+        "Nome": "BOA SAFRA SEMENTES S.A.",
+        "Setor": "Agropecu\u00e1ria",
+        "Sub Setor": "Agricultura",
+        "Segmento": "Agricultura"
+    },
+    "SOMA3": {
+        "Nome de preg\u00e3o": "GRUPO SOMA ON NM",
+        "CNPJ": "10.285.590/0001-08",
+        "Nome": "GRUPO DE MODA SOMA S.A.",
+        "Setor": "Com\u00e9rcio",
+        "Sub Setor": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados",
+        "Segmento": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados"
+    },
+    "SOND3": {
+        "Nome de preg\u00e3o": "SONDOTECNICA S/A. ON",
+        "CNPJ": "33.386.210/0001-19",
+        "Nome": "SONDOTECNICA ENGENHARIA DE SOLOS S/A.",
+        "Setor": "Constru\u00e7\u00e3o e Engenharia",
+        "Sub Setor": "Engenharia Consultiva",
+        "Segmento": "Engenharia Consultiva"
+    },
+    "SYNE3": {
+        "Nome de preg\u00e3o": "SYN PROP TEC ON NM",
+        "CNPJ": "08.801.621/0001-86",
+        "Nome": "CYRELA COMMERCIAL PROPERTIES SA EMP PART",
+        "Setor": "Explora\u00e7\u00e3o de Im\u00f3veis",
+        "Sub Setor": "Explora\u00e7\u00e3o de Im\u00f3veis",
+        "Segmento": "Explora\u00e7\u00e3o de Im\u00f3veis"
+    },
+    "TASA3": {
+        "Nome de preg\u00e3o": "TAURUS ARMAS ON",
+        "CNPJ": "92.781.335/0001-02",
+        "Nome": "TAURUS S.A.",
+        "Setor": "M\u00e1quinas e Equipamentos",
+        "Sub Setor": "Armas e Muni\u00e7\u00f5es",
+        "Segmento": "Armas e Muni\u00e7\u00f5es"
+    },
+    "TASA4": {
+        "Nome de preg\u00e3o": "TAURUS ARMAS PN",
+        "CNPJ": "92.781.335/0001-02",
+        "Nome": "TAURUS S.A.",
+        "Setor": "M\u00e1quinas e Equipamentos",
+        "Sub Setor": "Armas e Muni\u00e7\u00f5es",
+        "Segmento": "Armas e Muni\u00e7\u00f5es"
+    },
+    "TFCO4": {
+        "Nome de preg\u00e3o": "TRACK FIELD PN",
+        "CNPJ": "59.418.806/0001-47",
+        "Nome": "TRACK & FIELD CO S.A.",
+        "Setor": "Tecidos, Vestu\u00e1rio e Cal\u00e7ados",
+        "Sub Setor": "Vestu\u00e1rio",
+        "Segmento": "Vestu\u00e1rio"
+    },
+    "TIMS3": {
+        "Nome de preg\u00e3o": "TIM ON NM",
+        "CNPJ": "02.421.421/0001-11",
+        "Nome": "TIM S.A.",
+        "Setor": "Telecomunica\u00e7\u00f5es",
+        "Sub Setor": "Telecomunica\u00e7\u00f5es",
+        "Segmento": "Telecomunica\u00e7\u00f5es"
+    },
+    "TRAD3": {
+        "Nome de preg\u00e3o": "TC ON NM",
+        "CNPJ": "26.345.998/0001-50",
+        "Nome": "TC TRADERS CLUB S.A.",
+        "Setor": "Programas e Servi\u00e7os",
+        "Sub Setor": "Programas e Servi\u00e7os",
+        "Segmento": "Programas e Servi\u00e7os"
+    },
+    "TTEN3": {
+        "Nome de preg\u00e3o": "3TENTOS ON NM",
+        "CNPJ": "94.813.102/0001-70",
+        "Nome": "TRES TENTOS AGROINDUSTRIAL S.A.",
+        "Setor": "Agropecu\u00e1ria",
+        "Sub Setor": "Agricultura",
+        "Segmento": "Agricultura"
+    },
+    "VAMO3": {
+        "Nome de preg\u00e3o": "VAMOS ON NM",
+        "CNPJ": "23.373.000/0001-32",
+        "Nome": "VAMOS LOCACAO DE CAMINHOES, MAQUINAS E EQUIPAMENTOS S.A.",
+        "Setor": "Diversos",
+        "Sub Setor": "Aluguel de carros",
+        "Segmento": "Aluguel de carros"
+    },
+    "VBBR3": {
+        "Nome de preg\u00e3o": "VIBRA ON",
+        "CNPJ": "34.274.233/0001-02",
+        "Nome": "VIBRA ENERGIA S.A",
+        "Setor": "Petr\u00f3leo, G\u00e1s e Biocombust\u00edveis",
+        "Sub Setor": "Explora\u00e7\u00e3o, Refino e Distribui\u00e7\u00e3o",
+        "Segmento": "Explora\u00e7\u00e3o, Refino e Distribui\u00e7\u00e3o"
+    },
+    "VIIA3": {
+        "Nome de preg\u00e3o": "VIA ON",
+        "CNPJ": "33.041.260/0652-90",
+        "Nome": "VIA VAREJO S.A.",
+        "Setor": "Com\u00e9rcio",
+        "Sub Setor": "Eletrodom\u00e9sticos",
+        "Segmento": "Eletrodom\u00e9sticos"
+    },
+    "VITT3": {
+        "Nome de preg\u00e3o": "VITTIA ON NM",
+        "CNPJ": "45.365.558/0001-09",
+        "Nome": "VITTIA FERTILIZANTES E BIOLOGICOS S.A.",
+        "Setor": "Qu\u00edmicos",
+        "Sub Setor": "Fertilizantes e Defensivos",
+        "Segmento": "Fertilizantes e Defensivos"
+    },
+    "VSPT3": {
+        "Nome de preg\u00e3o": "FERROVIA CENTRO-ATL\u00c2NTICA S.A. ON",
+        "CNPJ": "00.924.429/0001-75",
+        "Nome": "FERROVIA CENTRO ATLANTICA SA",
+        "Setor": "Transporte",
+        "Sub Setor": "Transporte Ferrovi\u00e1rio",
+        "Segmento": "Transporte Ferrovi\u00e1rio"
+    },
+    "VSPT4": {
+        "Nome de preg\u00e3o": "FERROVIA CENTRO-ATL\u00c2NTICA S.A. PN",
+        "CNPJ": "00.924.429/0001-75",
+        "Nome": "FERROVIA CENTRO ATLANTICA SA",
+        "Setor": "Transporte",
+        "Sub Setor": "Transporte Ferrovi\u00e1rio",
+        "Segmento": "Transporte Ferrovi\u00e1rio"
+    },
+    "VVEO3": {
+        "Nome de preg\u00e3o": "VIVEO ON NM",
+        "CNPJ": "12.420.164/0001-57",
+        "Nome": "CM HOSPITALAR S.A.",
+        "Setor": "Com\u00e9rcio e Distribui\u00e7\u00e3o",
+        "Sub Setor": "Medicamentos e Outros Produtos",
+        "Segmento": "Medicamentos e Outros Produtos"
+    },
+    "WEST3": {
+        "Nome de preg\u00e3o": "WESTWING ON NM",
+        "CNPJ": "14.776.142/0001-50",
+        "Nome": "WESTWING COM\u00c9RCIO VAREJISTA S.A.",
+        "Setor": "Programas e Servi\u00e7os",
+        "Sub Setor": "Programas e Servi\u00e7os",
+        "Segmento": "Programas e Servi\u00e7os"
+    },
+    "YDUQ3": {
+        "Nome de preg\u00e3o": "YDUQS PART ON",
+        "CNPJ": "08.807.432/0001-10",
+        "Nome": "ESTACIO PARTICIPA\u00c7\u00d5ES SA",
+        "Setor": "Diversos",
+        "Sub Setor": "Servi\u00e7os Educacionais",
+        "Segmento": "Servi\u00e7os Educacionais"
+    }
+}
