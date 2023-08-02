@@ -36,8 +36,10 @@ def get_movements_list_from_b3_exports():
     movements_dfs = []
 
     for movement_file in os.listdir(MOVEMENTS_PATH):
-        movements = pd.read_excel(MOVEMENTS_PATH / movement_file)
-        movements_dfs.append(movements)
+        ext = os.path.splitext(movement_file)[-1].lower()
+        if ext == ".xlsx":
+            movements = pd.read_excel(MOVEMENTS_PATH / movement_file)
+            movements_dfs.append(movements)
 
     if len(movements_dfs) == 0:
         return []
